@@ -10,6 +10,36 @@ export interface MatchData {
   TotalGoals?: number;
 }
 
+export interface Analysis {
+  homeStats: {
+    mean: number;
+    median: number;
+    mode: string;
+    q1: number;
+    q3: number;
+  };
+  awayStats: {
+    mean: number;
+    median: number;
+    mode: string;
+    q1: number;
+    q3: number;
+  };
+  totalStats: {
+    mean: number;
+    median: number;
+    mode: string;
+    q1: number;
+    q3: number;
+  };
+  homeFreq: Record<string, number>;
+  awayFreq: Record<string, number>;
+  totalFreq: Record<string, number>;
+  ftrFreq: Record<string, number>;
+  ftrPercentages: Record<string, string>;
+  totalMatches: number;
+}
+
 export const calculateMean = (data: number[]): number => {
   return data.reduce((acc, val) => acc + val, 0) / data.length;
 };

@@ -2,11 +2,11 @@
 import { useState, useEffect } from "react";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, LineChart, Line } from "recharts";
 import _ from "lodash";
-import { MatchData } from "../utils/statistics";
+import { Analysis, MatchData } from "../utils/statistics";
 import { loadMatchData } from "../services/dataService";
 
 const PremierLeagueAnalysis = () => {
-  const [analysis, setAnalysis] = useState<any>(null);
+  const [analysis, setAnalysis] = useState<Analysis | null>(null);
   const [metaMatchData, setMetaMatchData] = useState<{
     totalMatches: number;
     totalGoals: number;
@@ -24,20 +24,6 @@ const PremierLeagueAnalysis = () => {
       FileUpdated: Date;
     };
   } | null>(null);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const matchData = await loadMatchData();
-        performAnalysis(matchData.processedData);
-        setMetaMatchData(matchData);
-      } catch (err) {
-        console.error("Error loading match data:", err);
-      }
-    };
-
-    fetchData();
-  }, []);
 
   const calculateStats = (values: number[]) => {
     const sorted = values.sort((a, b) => a - b);
@@ -125,6 +111,20 @@ const PremierLeagueAnalysis = () => {
       { name: "Away Win", value: analysis.ftrFreq.A || 0, color: "#ffc658" },
     ];
   };
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const matchData = await loadMatchData();
+        performAnalysis(matchData.processedData);
+        setMetaMatchData(matchData);
+      } catch (err) {
+        console.error("Error loading match data:", err);
+      }
+    };
+
+    fetchData();
+  }, [performAnalysis]);
 
   if (!analysis) {
     return <div className="p-8">Loading analysis...</div>;
