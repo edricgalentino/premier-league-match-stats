@@ -124,7 +124,7 @@ const PremierLeagueAnalysis = () => {
     };
 
     fetchData();
-  }, [performAnalysis]);
+  }, []);
 
   if (!analysis) {
     return <div className="p-8">Loading analysis...</div>;
@@ -182,14 +182,14 @@ const PremierLeagueAnalysis = () => {
             <span className="inline-block w-2 h-6 bg-blue-400 rounded-full mr-2"></span>
             Overview of the File
           </h2>
-          <div className="mb-4 flex flex-col gap-2">
+          <div className="mb-4 flex gap-2">
             <a href={`/csv/${metaMatchData?.fileInfo.FileName}`} className="inline-block px-4 py-2 bg-blue-500 text-white rounded-lg shadow hover:bg-blue-600 transition" download>
               <svg className="inline-block w-5 h-5 mr-2 -mt-1" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4" />
               </svg>
               Download File
             </a>
-            <a href="https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022/data" className="inline-block px-4 py-2 bg-gray-200 text-blue-700 rounded-lg shadow hover:bg-gray-300 transition text-sm font-medium" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022/data" className="inline-block px-4 py-2.5 bg-gray-200 text-blue-700 rounded-lg shadow hover:bg-gray-300 transition text-sm font-medium" target="_blank" rel="noopener noreferrer">
               View File Source on Kaggle
             </a>
           </div>
