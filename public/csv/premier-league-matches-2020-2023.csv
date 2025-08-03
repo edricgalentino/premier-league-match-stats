@@ -1,0 +1,1521 @@
+Season_End_Year;Wk;Date;Home;HomeGoals;AwayGoals;Away;FTR
+2020;1;2019-08-09;Liverpool;4;1;Norwich City;H
+2020;1;2019-08-10;West Ham;0;5;Manchester City;A
+2020;1;2019-08-10;Crystal Palace;0;0;Everton;D
+2020;1;2019-08-10;Bournemouth;1;1;Sheffield Utd;D
+2020;1;2019-08-10;Burnley;3;0;Southampton;H
+2020;1;2019-08-10;Watford;0;3;Brighton;A
+2020;1;2019-08-10;Tottenham;3;1;Aston Villa;H
+2020;1;2019-08-11;Leicester City;0;0;Wolves;D
+2020;1;2019-08-11;Newcastle Utd;0;1;Arsenal;A
+2020;1;2019-08-11;Manchester Utd;4;0;Chelsea;H
+2020;2;2019-08-17;Arsenal;2;1;Burnley;H
+2020;2;2019-08-17;Brighton;1;1;West Ham;D
+2020;2;2019-08-17;Norwich City;3;1;Newcastle Utd;H
+2020;2;2019-08-17;Aston Villa;1;2;Bournemouth;A
+2020;2;2019-08-17;Everton;1;0;Watford;H
+2020;2;2019-08-17;Southampton;1;2;Liverpool;A
+2020;2;2019-08-17;Manchester City;2;2;Tottenham;D
+2020;2;2019-08-18;Sheffield Utd;1;0;Crystal Palace;H
+2020;2;2019-08-18;Chelsea;1;1;Leicester City;D
+2020;2;2019-08-19;Wolves;1;1;Manchester Utd;D
+2020;3;2019-08-23;Aston Villa;2;0;Everton;H
+2020;3;2019-08-24;Norwich City;2;3;Chelsea;A
+2020;3;2019-08-24;Brighton;0;2;Southampton;A
+2020;3;2019-08-24;Watford;1;3;West Ham;A
+2020;3;2019-08-24;Manchester Utd;1;2;Crystal Palace;A
+2020;3;2019-08-24;Sheffield Utd;1;2;Leicester City;A
+2020;3;2019-08-24;Liverpool;3;1;Arsenal;H
+2020;3;2019-08-25;Bournemouth;1;3;Manchester City;A
+2020;3;2019-08-25;Tottenham;0;1;Newcastle Utd;A
+2020;3;2019-08-25;Wolves;1;1;Burnley;D
+2020;4;2019-08-31;Southampton;1;1;Manchester Utd;D
+2020;4;2019-08-31;Leicester City;3;1;Bournemouth;H
+2020;4;2019-08-31;Crystal Palace;1;0;Aston Villa;H
+2020;4;2019-08-31;Manchester City;4;0;Brighton;H
+2020;4;2019-08-31;Chelsea;2;2;Sheffield Utd;D
+2020;4;2019-08-31;West Ham;2;0;Norwich City;H
+2020;4;2019-08-31;Newcastle Utd;1;1;Watford;D
+2020;4;2019-08-31;Burnley;0;3;Liverpool;A
+2020;4;2019-09-01;Everton;3;2;Wolves;H
+2020;4;2019-09-01;Arsenal;2;2;Tottenham;D
+2020;5;2019-09-14;Liverpool;3;1;Newcastle Utd;H
+2020;5;2019-09-14;Wolves;2;5;Chelsea;A
+2020;5;2019-09-14;Tottenham;4;0;Crystal Palace;H
+2020;5;2019-09-14;Brighton;1;1;Burnley;D
+2020;5;2019-09-14;Sheffield Utd;0;1;Southampton;A
+2020;5;2019-09-14;Manchester Utd;1;0;Leicester City;H
+2020;5;2019-09-14;Norwich City;3;2;Manchester City;H
+2020;5;2019-09-15;Bournemouth;3;1;Everton;H
+2020;5;2019-09-15;Watford;2;2;Arsenal;D
+2020;5;2019-09-16;Aston Villa;0;0;West Ham;D
+2020;6;2019-09-20;Southampton;1;3;Bournemouth;A
+2020;6;2019-09-21;Leicester City;2;1;Tottenham;H
+2020;6;2019-09-21;Burnley;2;0;Norwich City;H
+2020;6;2019-09-21;Manchester City;8;0;Watford;H
+2020;6;2019-09-21;Everton;0;2;Sheffield Utd;A
+2020;6;2019-09-21;Newcastle Utd;0;0;Brighton;D
+2020;6;2019-09-22;Crystal Palace;1;1;Wolves;D
+2020;6;2019-09-22;West Ham;2;0;Manchester Utd;H
+2020;6;2019-09-22;Arsenal;3;2;Aston Villa;H
+2020;6;2019-09-22;Chelsea;1;2;Liverpool;A
+2020;7;2019-09-28;Sheffield Utd;0;1;Liverpool;A
+2020;7;2019-09-28;Bournemouth;2;2;West Ham;D
+2020;7;2019-09-28;Wolves;2;0;Watford;H
+2020;7;2019-09-28;Aston Villa;2;2;Burnley;D
+2020;7;2019-09-28;Tottenham;2;1;Southampton;H
+2020;7;2019-09-28;Crystal Palace;2;0;Norwich City;H
+2020;7;2019-09-28;Chelsea;2;0;Brighton;H
+2020;7;2019-09-28;Everton;1;3;Manchester City;A
+2020;7;2019-09-29;Leicester City;5;0;Newcastle Utd;H
+2020;7;2019-09-30;Manchester Utd;1;1;Arsenal;D
+2020;8;2019-10-05;Brighton;3;0;Tottenham;H
+2020;8;2019-10-05;Watford;0;0;Sheffield Utd;D
+2020;8;2019-10-05;Liverpool;2;1;Leicester City;H
+2020;8;2019-10-05;Norwich City;1;5;Aston Villa;A
+2020;8;2019-10-05;Burnley;1;0;Everton;H
+2020;8;2019-10-05;West Ham;1;2;Crystal Palace;A
+2020;8;2019-10-06;Manchester City;0;2;Wolves;A
+2020;8;2019-10-06;Arsenal;1;0;Bournemouth;H
+2020;8;2019-10-06;Southampton;1;4;Chelsea;A
+2020;8;2019-10-06;Newcastle Utd;1;0;Manchester Utd;H
+2020;9;2019-10-19;Everton;2;0;West Ham;H
+2020;9;2019-10-19;Wolves;1;1;Southampton;D
+2020;9;2019-10-19;Chelsea;1;0;Newcastle Utd;H
+2020;9;2019-10-19;Aston Villa;2;1;Brighton;H
+2020;9;2019-10-19;Leicester City;2;1;Burnley;H
+2020;9;2019-10-19;Bournemouth;0;0;Norwich City;D
+2020;9;2019-10-19;Tottenham;1;1;Watford;D
+2020;9;2019-10-19;Crystal Palace;0;2;Manchester City;A
+2020;9;2019-10-20;Manchester Utd;1;1;Liverpool;D
+2020;9;2019-10-21;Sheffield Utd;1;0;Arsenal;H
+2020;10;2019-10-25;Southampton;0;9;Leicester City;A
+2020;10;2019-10-26;Manchester City;3;0;Aston Villa;H
+2020;10;2019-10-26;West Ham;1;1;Sheffield Utd;D
+2020;10;2019-10-26;Watford;0;0;Bournemouth;D
+2020;10;2019-10-26;Brighton;3;2;Everton;H
+2020;10;2019-10-26;Burnley;2;4;Chelsea;A
+2020;10;2019-10-27;Newcastle Utd;1;1;Wolves;D
+2020;10;2019-10-27;Arsenal;2;2;Crystal Palace;D
+2020;10;2019-10-27;Liverpool;2;1;Tottenham;H
+2020;10;2019-10-27;Norwich City;1;3;Manchester Utd;A
+2020;11;2019-11-02;Bournemouth;1;0;Manchester Utd;H
+2020;11;2019-11-02;Sheffield Utd;3;0;Burnley;H
+2020;11;2019-11-02;Manchester City;2;1;Southampton;H
+2020;11;2019-11-02;Arsenal;1;1;Wolves;D
+2020;11;2019-11-02;Brighton;2;0;Norwich City;H
+2020;11;2019-11-02;Aston Villa;1;2;Liverpool;A
+2020;11;2019-11-02;West Ham;2;3;Newcastle Utd;A
+2020;11;2019-11-02;Watford;1;2;Chelsea;A
+2020;11;2019-11-03;Crystal Palace;0;2;Leicester City;A
+2020;11;2019-11-03;Everton;1;1;Tottenham;D
+2020;12;2019-11-08;Norwich City;0;2;Watford;A
+2020;12;2019-11-09;Chelsea;2;0;Crystal Palace;H
+2020;12;2019-11-09;Southampton;1;2;Everton;A
+2020;12;2019-11-09;Newcastle Utd;2;1;Bournemouth;H
+2020;12;2019-11-09;Burnley;3;0;West Ham;H
+2020;12;2019-11-09;Tottenham;1;1;Sheffield Utd;D
+2020;12;2019-11-09;Leicester City;2;0;Arsenal;H
+2020;12;2019-11-10;Manchester Utd;3;1;Brighton;H
+2020;12;2019-11-10;Wolves;2;1;Aston Villa;H
+2020;12;2019-11-10;Liverpool;3;1;Manchester City;H
+2020;13;2019-11-23;West Ham;2;3;Tottenham;A
+2020;13;2019-11-23;Brighton;0;2;Leicester City;A
+2020;13;2019-11-23;Watford;0;3;Burnley;A
+2020;13;2019-11-23;Crystal Palace;1;2;Liverpool;A
+2020;13;2019-11-23;Arsenal;2;2;Southampton;D
+2020;13;2019-11-23;Everton;0;2;Norwich City;A
+2020;13;2019-11-23;Bournemouth;1;2;Wolves;A
+2020;13;2019-11-23;Manchester City;2;1;Chelsea;H
+2020;13;2019-11-24;Sheffield Utd;3;3;Manchester Utd;D
+2020;13;2019-11-25;Aston Villa;2;0;Newcastle Utd;H
+2020;14;2019-11-30;Newcastle Utd;2;2;Manchester City;D
+2020;14;2019-11-30;Tottenham;3;2;Bournemouth;H
+2020;14;2019-11-30;Burnley;0;2;Crystal Palace;A
+2020;14;2019-11-30;Liverpool;2;1;Brighton;H
+2020;14;2019-11-30;Chelsea;0;1;West Ham;A
+2020;14;2019-11-30;Southampton;2;1;Watford;H
+2020;14;2019-12-01;Wolves;1;1;Sheffield Utd;D
+2020;14;2019-12-01;Norwich City;2;2;Arsenal;D
+2020;14;2019-12-01;Leicester City;2;1;Everton;H
+2020;14;2019-12-01;Manchester Utd;2;2;Aston Villa;D
+2020;15;2019-12-03;Crystal Palace;1;0;Bournemouth;H
+2020;15;2019-12-03;Burnley;1;4;Manchester City;A
+2020;15;2019-12-04;Wolves;2;0;West Ham;H
+2020;15;2019-12-04;Southampton;2;1;Norwich City;H
+2020;15;2019-12-04;Leicester City;2;0;Watford;H
+2020;15;2019-12-04;Chelsea;2;1;Aston Villa;H
+2020;15;2019-12-04;Manchester Utd;2;1;Tottenham;H
+2020;15;2019-12-04;Liverpool;5;2;Everton;H
+2020;15;2019-12-05;Sheffield Utd;0;2;Newcastle Utd;A
+2020;15;2019-12-05;Arsenal;1;2;Brighton;A
+2020;16;2019-12-07;Everton;3;1;Chelsea;H
+2020;16;2019-12-07;Watford;0;0;Crystal Palace;D
+2020;16;2019-12-07;Bournemouth;0;3;Liverpool;A
+2020;16;2019-12-07;Tottenham;5;0;Burnley;H
+2020;16;2019-12-07;Manchester City;1;2;Manchester Utd;A
+2020;16;2019-12-08;Norwich City;1;2;Sheffield Utd;A
+2020;16;2019-12-08;Aston Villa;1;4;Leicester City;A
+2020;16;2019-12-08;Newcastle Utd;2;1;Southampton;H
+2020;16;2019-12-08;Brighton;2;2;Wolves;D
+2020;16;2019-12-09;West Ham;1;3;Arsenal;A
+2020;17;2019-12-14;Liverpool;2;0;Watford;H
+2020;17;2019-12-14;Burnley;1;0;Newcastle Utd;H
+2020;17;2019-12-14;Chelsea;0;1;Bournemouth;A
+2020;17;2019-12-14;Sheffield Utd;2;0;Aston Villa;H
+2020;17;2019-12-14;Leicester City;1;1;Norwich City;D
+2020;17;2019-12-14;Southampton;0;1;West Ham;A
+2020;17;2019-12-15;Wolves;1;2;Tottenham;A
+2020;17;2019-12-15;Manchester Utd;1;1;Everton;D
+2020;17;2019-12-15;Arsenal;0;3;Manchester City;A
+2020;17;2019-12-16;Crystal Palace;1;1;Brighton;D
+2020;18;2019-12-21;Everton;0;0;Arsenal;D
+2020;18;2019-12-21;Newcastle Utd;1;0;Crystal Palace;H
+2020;18;2019-12-21;Aston Villa;1;3;Southampton;A
+2020;18;2019-12-21;Brighton;0;1;Sheffield Utd;A
+2020;18;2019-12-21;Norwich City;1;2;Wolves;A
+2020;18;2019-12-21;Bournemouth;0;1;Burnley;A
+2020;18;2019-12-21;Manchester City;3;1;Leicester City;H
+2020;18;2019-12-22;Watford;2;0;Manchester Utd;H
+2020;18;2019-12-22;Tottenham;0;2;Chelsea;A
+2020;19;2019-12-26;Tottenham;2;1;Brighton;H
+2020;19;2019-12-26;Chelsea;0;2;Southampton;A
+2020;19;2019-12-26;Crystal Palace;2;1;West Ham;H
+2020;19;2019-12-26;Aston Villa;1;0;Norwich City;H
+2020;19;2019-12-26;Everton;1;0;Burnley;H
+2020;19;2019-12-26;Bournemouth;1;1;Arsenal;D
+2020;19;2019-12-26;Sheffield Utd;1;1;Watford;D
+2020;19;2019-12-26;Manchester Utd;4;1;Newcastle Utd;H
+2020;19;2019-12-26;Leicester City;0;4;Liverpool;A
+2020;19;2019-12-27;Wolves;3;2;Manchester City;H
+2020;20;2019-12-28;Brighton;2;0;Bournemouth;H
+2020;20;2019-12-28;Newcastle Utd;1;2;Everton;A
+2020;20;2019-12-28;Southampton;1;1;Crystal Palace;D
+2020;20;2019-12-28;Watford;3;0;Aston Villa;H
+2020;20;2019-12-28;West Ham;1;2;Leicester City;A
+2020;20;2019-12-28;Norwich City;2;2;Tottenham;D
+2020;20;2019-12-28;Burnley;0;2;Manchester Utd;A
+2020;20;2019-12-29;Arsenal;1;2;Chelsea;A
+2020;20;2019-12-29;Liverpool;1;0;Wolves;H
+2020;20;2019-12-29;Manchester City;2;0;Sheffield Utd;H
+2020;21;2020-01-01;Burnley;1;2;Aston Villa;A
+2020;21;2020-01-01;Brighton;1;1;Chelsea;D
+2020;21;2020-01-01;Southampton;1;0;Tottenham;H
+2020;21;2020-01-01;Watford;2;1;Wolves;H
+2020;21;2020-01-01;Newcastle Utd;0;3;Leicester City;A
+2020;21;2020-01-01;Norwich City;1;1;Crystal Palace;D
+2020;21;2020-01-01;Manchester City;2;1;Everton;H
+2020;21;2020-01-01;West Ham;4;0;Bournemouth;H
+2020;21;2020-01-01;Arsenal;2;0;Manchester Utd;H
+2020;21;2020-01-02;Liverpool;2;0;Sheffield Utd;H
+2020;22;2020-01-10;Sheffield Utd;1;0;West Ham;H
+2020;22;2020-01-11;Crystal Palace;1;1;Arsenal;D
+2020;22;2020-01-11;Leicester City;1;2;Southampton;A
+2020;22;2020-01-11;Everton;1;0;Brighton;H
+2020;22;2020-01-11;Chelsea;3;0;Burnley;H
+2020;22;2020-01-11;Wolves;1;1;Newcastle Utd;D
+2020;22;2020-01-11;Manchester Utd;4;0;Norwich City;H
+2020;22;2020-01-11;Tottenham;0;1;Liverpool;A
+2020;22;2020-01-12;Bournemouth;0;3;Watford;A
+2020;22;2020-01-12;Aston Villa;1;6;Manchester City;A
+2020;23;2020-01-18;Watford;0;0;Tottenham;D
+2020;23;2020-01-18;Manchester City;2;2;Crystal Palace;D
+2020;23;2020-01-18;Norwich City;1;0;Bournemouth;H
+2020;23;2020-01-18;Arsenal;1;1;Sheffield Utd;D
+2020;23;2020-01-18;Southampton;2;3;Wolves;A
+2020;23;2020-01-18;West Ham;1;1;Everton;D
+2020;23;2020-01-18;Brighton;1;1;Aston Villa;D
+2020;23;2020-01-18;Newcastle Utd;1;0;Chelsea;H
+2020;23;2020-01-19;Burnley;2;1;Leicester City;H
+2020;23;2020-01-19;Liverpool;2;0;Manchester Utd;H
+2020;24;2020-01-21;Crystal Palace;0;2;Southampton;A
+2020;24;2020-01-21;Aston Villa;2;1;Watford;H
+2020;24;2020-01-21;Everton;2;2;Newcastle Utd;D
+2020;24;2020-01-21;Bournemouth;3;1;Brighton;H
+2020;24;2020-01-21;Sheffield Utd;0;1;Manchester City;A
+2020;24;2020-01-21;Chelsea;2;2;Arsenal;D
+2020;24;2020-01-22;Tottenham;2;1;Norwich City;H
+2020;24;2020-01-22;Leicester City;4;1;West Ham;H
+2020;24;2020-01-22;Manchester Utd;0;2;Burnley;A
+2020;24;2020-01-23;Wolves;1;2;Liverpool;A
+2020;18;2020-01-29;West Ham;0;2;Liverpool;A
+2020;25;2020-02-01;Leicester City;2;2;Chelsea;D
+2020;25;2020-02-01;West Ham;3;3;Brighton;D
+2020;25;2020-02-01;Newcastle Utd;0;0;Norwich City;D
+2020;25;2020-02-01;Crystal Palace;0;1;Sheffield Utd;A
+2020;25;2020-02-01;Watford;2;3;Everton;A
+2020;25;2020-02-01;Bournemouth;2;1;Aston Villa;H
+2020;25;2020-02-01;Liverpool;4;0;Southampton;H
+2020;25;2020-02-01;Manchester Utd;0;0;Wolves;D
+2020;25;2020-02-02;Burnley;0;0;Arsenal;D
+2020;25;2020-02-02;Tottenham;2;0;Manchester City;H
+2020;26;2020-02-08;Everton;3;1;Crystal Palace;H
+2020;26;2020-02-08;Brighton;1;1;Watford;D
+2020;26;2020-02-09;Sheffield Utd;2;1;Bournemouth;H
+2020;26;2020-02-14;Wolves;0;0;Leicester City;D
+2020;26;2020-02-15;Southampton;1;2;Burnley;A
+2020;26;2020-02-15;Norwich City;0;1;Liverpool;A
+2020;26;2020-02-16;Aston Villa;2;3;Tottenham;A
+2020;26;2020-02-16;Arsenal;4;0;Newcastle Utd;H
+2020;26;2020-02-17;Chelsea;0;2;Manchester Utd;A
+2020;26;2020-02-19;Manchester City;2;0;West Ham;H
+2020;27;2020-02-22;Chelsea;2;1;Tottenham;H
+2020;27;2020-02-22;Southampton;2;0;Aston Villa;H
+2020;27;2020-02-22;Crystal Palace;1;0;Newcastle Utd;H
+2020;27;2020-02-22;Burnley;3;0;Bournemouth;H
+2020;27;2020-02-22;Sheffield Utd;1;1;Brighton;D
+2020;27;2020-02-22;Leicester City;0;1;Manchester City;A
+2020;27;2020-02-23;Manchester Utd;3;0;Watford;H
+2020;27;2020-02-23;Wolves;3;0;Norwich City;H
+2020;27;2020-02-23;Arsenal;3;2;Everton;H
+2020;27;2020-02-24;Liverpool;3;2;West Ham;H
+2020;28;2020-02-28;Norwich City;1;0;Leicester City;H
+2020;28;2020-02-29;Brighton;0;1;Crystal Palace;A
+2020;28;2020-02-29;Bournemouth;2;2;Chelsea;D
+2020;28;2020-02-29;West Ham;3;1;Southampton;H
+2020;28;2020-02-29;Newcastle Utd;0;0;Burnley;D
+2020;28;2020-02-29;Watford;3;0;Liverpool;H
+2020;28;2020-03-01;Tottenham;2;3;Wolves;A
+2020;28;2020-03-01;Everton;1;1;Manchester Utd;D
+2020;29;2020-03-07;Liverpool;2;1;Bournemouth;H
+2020;29;2020-03-07;Southampton;0;1;Newcastle Utd;A
+2020;29;2020-03-07;Arsenal;1;0;West Ham;H
+2020;29;2020-03-07;Sheffield Utd;1;0;Norwich City;H
+2020;29;2020-03-07;Wolves;0;0;Brighton;D
+2020;29;2020-03-07;Crystal Palace;1;0;Watford;H
+2020;29;2020-03-07;Burnley;1;1;Tottenham;D
+2020;29;2020-03-08;Chelsea;4;0;Everton;H
+2020;29;2020-03-08;Manchester Utd;2;0;Manchester City;H
+2020;29;2020-03-09;Leicester City;4;0;Aston Villa;H
+2020;28;2020-06-17;Aston Villa;0;0;Sheffield Utd;D
+2020;28;2020-06-17;Manchester City;3;0;Arsenal;H
+2020;30;2020-06-19;Norwich City;0;3;Southampton;A
+2020;30;2020-06-19;Tottenham;1;1;Manchester Utd;D
+2020;30;2020-06-20;Watford;1;1;Leicester City;D
+2020;30;2020-06-20;Brighton;2;1;Arsenal;H
+2020;30;2020-06-20;West Ham;0;2;Wolves;A
+2020;30;2020-06-20;Bournemouth;0;2;Crystal Palace;A
+2020;30;2020-06-21;Newcastle Utd;3;0;Sheffield Utd;H
+2020;30;2020-06-21;Aston Villa;1;2;Chelsea;A
+2020;30;2020-06-21;Everton;0;0;Liverpool;D
+2020;30;2020-06-22;Manchester City;5;0;Burnley;H
+2020;31;2020-06-23;Leicester City;0;0;Brighton;D
+2020;31;2020-06-23;Tottenham;2;0;West Ham;H
+2020;31;2020-06-24;Newcastle Utd;1;1;Aston Villa;D
+2020;31;2020-06-24;Norwich City;0;1;Everton;A
+2020;31;2020-06-24;Wolves;1;0;Bournemouth;H
+2020;31;2020-06-24;Manchester Utd;3;0;Sheffield Utd;H
+2020;31;2020-06-24;Liverpool;4;0;Crystal Palace;H
+2020;31;2020-06-25;Southampton;0;2;Arsenal;A
+2020;31;2020-06-25;Burnley;1;0;Watford;H
+2020;31;2020-06-25;Chelsea;2;1;Manchester City;H
+2020;32;2020-06-27;Aston Villa;0;1;Wolves;A
+2020;32;2020-06-28;Watford;1;3;Southampton;A
+2020;32;2020-06-29;Crystal Palace;0;1;Burnley;A
+2020;32;2020-06-30;Brighton;0;3;Manchester Utd;A
+2020;32;2020-07-01;Arsenal;4;0;Norwich City;H
+2020;32;2020-07-01;Bournemouth;1;4;Newcastle Utd;A
+2020;32;2020-07-01;Everton;2;1;Leicester City;H
+2020;32;2020-07-01;West Ham;3;2;Chelsea;H
+2020;32;2020-07-02;Sheffield Utd;3;1;Tottenham;H
+2020;32;2020-07-02;Manchester City;4;0;Liverpool;H
+2020;33;2020-07-04;Norwich City;0;1;Brighton;A
+2020;33;2020-07-04;Manchester Utd;5;2;Bournemouth;H
+2020;33;2020-07-04;Leicester City;3;0;Crystal Palace;H
+2020;33;2020-07-04;Wolves;0;2;Arsenal;A
+2020;33;2020-07-04;Chelsea;3;0;Watford;H
+2020;33;2020-07-05;Burnley;1;1;Sheffield Utd;D
+2020;33;2020-07-05;Newcastle Utd;2;2;West Ham;D
+2020;33;2020-07-05;Liverpool;2;0;Aston Villa;H
+2020;33;2020-07-05;Southampton;1;0;Manchester City;H
+2020;33;2020-07-06;Tottenham;1;0;Everton;H
+2020;34;2020-07-07;Watford;2;1;Norwich City;H
+2020;34;2020-07-07;Crystal Palace;2;3;Chelsea;A
+2020;34;2020-07-07;Arsenal;1;1;Leicester City;D
+2020;34;2020-07-08;Sheffield Utd;1;0;Wolves;H
+2020;34;2020-07-08;West Ham;0;1;Burnley;A
+2020;34;2020-07-08;Manchester City;5;0;Newcastle Utd;H
+2020;34;2020-07-08;Brighton;1;3;Liverpool;A
+2020;34;2020-07-09;Everton;1;1;Southampton;D
+2020;34;2020-07-09;Bournemouth;0;0;Tottenham;D
+2020;34;2020-07-09;Aston Villa;0;3;Manchester Utd;A
+2020;35;2020-07-11;Norwich City;0;4;West Ham;A
+2020;35;2020-07-11;Watford;2;1;Newcastle Utd;H
+2020;35;2020-07-11;Liverpool;1;1;Burnley;D
+2020;35;2020-07-11;Sheffield Utd;3;0;Chelsea;H
+2020;35;2020-07-11;Brighton;0;5;Manchester City;A
+2020;35;2020-07-12;Wolves;3;0;Everton;H
+2020;35;2020-07-12;Aston Villa;2;0;Crystal Palace;H
+2020;35;2020-07-12;Tottenham;2;1;Arsenal;H
+2020;35;2020-07-12;Bournemouth;4;1;Leicester City;H
+2020;35;2020-07-13;Manchester Utd;2;2;Southampton;D
+2020;36;2020-07-14;Chelsea;1;0;Norwich City;H
+2020;36;2020-07-15;Burnley;1;1;Wolves;D
+2020;36;2020-07-15;Newcastle Utd;1;3;Tottenham;A
+2020;36;2020-07-15;Manchester City;2;1;Bournemouth;H
+2020;36;2020-07-15;Arsenal;2;1;Liverpool;H
+2020;36;2020-07-16;Leicester City;2;0;Sheffield Utd;H
+2020;36;2020-07-16;Everton;1;1;Aston Villa;D
+2020;36;2020-07-16;Southampton;1;1;Brighton;D
+2020;36;2020-07-16;Crystal Palace;0;2;Manchester Utd;A
+2020;36;2020-07-17;West Ham;3;1;Watford;H
+2020;37;2020-07-18;Norwich City;0;2;Burnley;A
+2020;37;2020-07-19;Bournemouth;0;2;Southampton;A
+2020;37;2020-07-19;Tottenham;3;0;Leicester City;H
+2020;37;2020-07-20;Sheffield Utd;0;1;Everton;A
+2020;37;2020-07-20;Brighton;0;0;Newcastle Utd;D
+2020;37;2020-07-20;Wolves;2;0;Crystal Palace;H
+2020;37;2020-07-21;Watford;0;4;Manchester City;A
+2020;37;2020-07-21;Aston Villa;1;0;Arsenal;H
+2020;37;2020-07-22;Manchester Utd;1;1;West Ham;D
+2020;37;2020-07-22;Liverpool;5;3;Chelsea;H
+2020;38;2020-07-26;Burnley;1;2;Brighton;A
+2020;38;2020-07-26;West Ham;1;1;Aston Villa;D
+2020;38;2020-07-26;Arsenal;3;2;Watford;H
+2020;38;2020-07-26;Crystal Palace;1;1;Tottenham;D
+2020;38;2020-07-26;Everton;1;3;Bournemouth;A
+2020;38;2020-07-26;Chelsea;2;0;Wolves;H
+2020;38;2020-07-26;Newcastle Utd;1;3;Liverpool;A
+2020;38;2020-07-26;Leicester City;0;2;Manchester Utd;A
+2020;38;2020-07-26;Manchester City;5;0;Norwich City;H
+2020;38;2020-07-26;Southampton;3;1;Sheffield Utd;H
+2021;1;2020-09-12;Fulham;0;3;Arsenal;A
+2021;1;2020-09-12;Crystal Palace;1;0;Southampton;H
+2021;1;2020-09-12;Liverpool;4;3;Leeds United;H
+2021;1;2020-09-12;West Ham;0;2;Newcastle Utd;A
+2021;1;2020-09-13;West Brom;0;3;Leicester City;A
+2021;1;2020-09-13;Tottenham;0;1;Everton;A
+2021;1;2020-09-14;Sheffield Utd;0;2;Wolves;A
+2021;1;2020-09-14;Brighton;1;3;Chelsea;A
+2021;2;2020-09-19;Everton;5;2;West Brom;H
+2021;2;2020-09-19;Leeds United;4;3;Fulham;H
+2021;2;2020-09-19;Manchester Utd;1;3;Crystal Palace;A
+2021;2;2020-09-19;Arsenal;2;1;West Ham;H
+2021;2;2020-09-20;Southampton;2;5;Tottenham;A
+2021;2;2020-09-20;Newcastle Utd;0;3;Brighton;A
+2021;2;2020-09-20;Chelsea;0;2;Liverpool;A
+2021;2;2020-09-20;Leicester City;4;2;Burnley;H
+2021;2;2020-09-21;Aston Villa;1;0;Sheffield Utd;H
+2021;2;2020-09-21;Wolves;1;3;Manchester City;A
+2021;3;2020-09-26;Brighton;2;3;Manchester Utd;A
+2021;3;2020-09-26;Crystal Palace;1;2;Everton;A
+2021;3;2020-09-26;West Brom;3;3;Chelsea;D
+2021;3;2020-09-26;Burnley;0;1;Southampton;A
+2021;3;2020-09-27;Sheffield Utd;0;1;Leeds United;A
+2021;3;2020-09-27;Tottenham;1;1;Newcastle Utd;D
+2021;3;2020-09-27;Manchester City;2;5;Leicester City;A
+2021;3;2020-09-27;West Ham;4;0;Wolves;H
+2021;3;2020-09-28;Fulham;0;3;Aston Villa;A
+2021;3;2020-09-28;Liverpool;3;1;Arsenal;H
+2021;4;2020-10-03;Chelsea;4;0;Crystal Palace;H
+2021;4;2020-10-03;Everton;4;2;Brighton;H
+2021;4;2020-10-03;Leeds United;1;1;Manchester City;D
+2021;4;2020-10-03;Newcastle Utd;3;1;Burnley;H
+2021;4;2020-10-04;Leicester City;0;3;West Ham;A
+2021;4;2020-10-04;Southampton;2;0;West Brom;H
+2021;4;2020-10-04;Arsenal;2;1;Sheffield Utd;H
+2021;4;2020-10-04;Wolves;1;0;Fulham;H
+2021;4;2020-10-04;Manchester Utd;1;6;Tottenham;A
+2021;4;2020-10-04;Aston Villa;7;2;Liverpool;H
+2021;5;2020-10-17;Everton;2;2;Liverpool;D
+2021;5;2020-10-17;Chelsea;3;3;Southampton;D
+2021;5;2020-10-17;Manchester City;1;0;Arsenal;H
+2021;5;2020-10-17;Newcastle Utd;1;4;Manchester Utd;A
+2021;5;2020-10-18;Sheffield Utd;1;1;Fulham;D
+2021;5;2020-10-18;Crystal Palace;1;1;Brighton;D
+2021;5;2020-10-18;Tottenham;3;3;West Ham;D
+2021;5;2020-10-18;Leicester City;0;1;Aston Villa;A
+2021;5;2020-10-19;West Brom;0;0;Burnley;D
+2021;5;2020-10-19;Leeds United;0;1;Wolves;A
+2021;6;2020-10-23;Aston Villa;0;3;Leeds United;A
+2021;6;2020-10-24;West Ham;1;1;Manchester City;D
+2021;6;2020-10-24;Fulham;1;2;Crystal Palace;A
+2021;6;2020-10-24;Manchester Utd;0;0;Chelsea;D
+2021;6;2020-10-24;Liverpool;2;1;Sheffield Utd;H
+2021;6;2020-10-25;Southampton;2;0;Everton;H
+2021;6;2020-10-25;Wolves;1;1;Newcastle Utd;D
+2021;6;2020-10-25;Arsenal;0;1;Leicester City;A
+2021;6;2020-10-26;Brighton;1;1;West Brom;D
+2021;6;2020-10-26;Burnley;0;1;Tottenham;A
+2021;7;2020-10-30;Wolves;2;0;Crystal Palace;H
+2021;7;2020-10-31;Sheffield Utd;0;1;Manchester City;A
+2021;7;2020-10-31;Burnley;0;3;Chelsea;A
+2021;7;2020-10-31;Liverpool;2;1;West Ham;H
+2021;7;2020-11-01;Aston Villa;3;4;Southampton;A
+2021;7;2020-11-01;Newcastle Utd;2;1;Everton;H
+2021;7;2020-11-01;Manchester Utd;0;1;Arsenal;A
+2021;7;2020-11-01;Tottenham;2;1;Brighton;H
+2021;7;2020-11-02;Fulham;2;0;West Brom;H
+2021;7;2020-11-02;Leeds United;1;4;Leicester City;A
+2021;8;2020-11-06;Brighton;0;0;Burnley;D
+2021;8;2020-11-06;Southampton;2;0;Newcastle Utd;H
+2021;8;2020-11-07;Everton;1;3;Manchester Utd;A
+2021;8;2020-11-07;Crystal Palace;4;1;Leeds United;H
+2021;8;2020-11-07;Chelsea;4;1;Sheffield Utd;H
+2021;8;2020-11-07;West Ham;1;0;Fulham;H
+2021;8;2020-11-08;West Brom;0;1;Tottenham;A
+2021;8;2020-11-08;Leicester City;1;0;Wolves;H
+2021;8;2020-11-08;Manchester City;1;1;Liverpool;D
+2021;8;2020-11-08;Arsenal;0;3;Aston Villa;A
+2021;9;2020-11-21;Newcastle Utd;0;2;Chelsea;A
+2021;9;2020-11-21;Aston Villa;1;2;Brighton;A
+2021;9;2020-11-21;Tottenham;2;0;Manchester City;H
+2021;9;2020-11-21;Manchester Utd;1;0;West Brom;H
+2021;9;2020-11-22;Fulham;2;3;Everton;A
+2021;9;2020-11-22;Sheffield Utd;0;1;West Ham;A
+2021;9;2020-11-22;Leeds United;0;0;Arsenal;D
+2021;9;2020-11-22;Liverpool;3;0;Leicester City;H
+2021;9;2020-11-23;Burnley;1;0;Crystal Palace;H
+2021;9;2020-11-23;Wolves;1;1;Southampton;D
+2021;10;2020-11-27;Crystal Palace;0;2;Newcastle Utd;A
+2021;10;2020-11-28;Brighton;1;1;Liverpool;D
+2021;10;2020-11-28;Manchester City;5;0;Burnley;H
+2021;10;2020-11-28;Everton;0;1;Leeds United;A
+2021;10;2020-11-28;West Brom;1;0;Sheffield Utd;H
+2021;10;2020-11-29;Southampton;2;3;Manchester Utd;A
+2021;10;2020-11-29;Chelsea;0;0;Tottenham;D
+2021;10;2020-11-29;Arsenal;1;2;Wolves;A
+2021;10;2020-11-30;Leicester City;1;2;Fulham;A
+2021;10;2020-11-30;West Ham;2;1;Aston Villa;H
+2021;11;2020-12-05;Burnley;1;1;Everton;D
+2021;11;2020-12-05;Manchester City;2;0;Fulham;H
+2021;11;2020-12-05;West Ham;1;3;Manchester Utd;A
+2021;11;2020-12-05;Chelsea;3;1;Leeds United;H
+2021;11;2020-12-06;West Brom;1;5;Crystal Palace;A
+2021;11;2020-12-06;Sheffield Utd;1;2;Leicester City;A
+2021;11;2020-12-06;Tottenham;2;0;Arsenal;H
+2021;11;2020-12-06;Liverpool;4;0;Wolves;H
+2021;11;2020-12-07;Brighton;1;2;Southampton;A
+2021;12;2020-12-11;Leeds United;1;2;West Ham;A
+2021;12;2020-12-12;Wolves;0;1;Aston Villa;A
+2021;12;2020-12-12;Newcastle Utd;2;1;West Brom;H
+2021;12;2020-12-12;Manchester Utd;0;0;Manchester City;D
+2021;12;2020-12-12;Everton;1;0;Chelsea;H
+2021;12;2020-12-13;Southampton;3;0;Sheffield Utd;H
+2021;12;2020-12-13;Crystal Palace;1;1;Tottenham;D
+2021;12;2020-12-13;Fulham;1;1;Liverpool;D
+2021;12;2020-12-13;Leicester City;3;0;Brighton;H
+2021;12;2020-12-13;Arsenal;0;1;Burnley;A
+2021;13;2020-12-15;Wolves;2;1;Chelsea;H
+2021;13;2020-12-15;Manchester City;1;1;West Brom;D
+2021;13;2020-12-16;Leeds United;5;2;Newcastle Utd;H
+2021;13;2020-12-16;Arsenal;1;1;Southampton;D
+2021;13;2020-12-16;Leicester City;0;2;Everton;A
+2021;13;2020-12-16;Liverpool;2;1;Tottenham;H
+2021;13;2020-12-16;West Ham;1;1;Crystal Palace;D
+2021;13;2020-12-16;Fulham;0;0;Brighton;D
+2021;13;2020-12-17;Aston Villa;0;0;Burnley;D
+2021;13;2020-12-17;Sheffield Utd;2;3;Manchester Utd;A
+2021;14;2020-12-19;Crystal Palace;0;7;Liverpool;A
+2021;14;2020-12-19;Southampton;0;1;Manchester City;A
+2021;14;2020-12-19;Everton;2;1;Arsenal;H
+2021;14;2020-12-19;Newcastle Utd;1;1;Fulham;D
+2021;14;2020-12-20;Brighton;1;1;Sheffield Utd;D
+2021;14;2020-12-20;Tottenham;0;2;Leicester City;A
+2021;14;2020-12-20;Manchester Utd;6;2;Leeds United;H
+2021;14;2020-12-20;West Brom;0;3;Aston Villa;A
+2021;14;2020-12-21;Burnley;2;1;Wolves;H
+2021;14;2020-12-21;Chelsea;3;0;West Ham;H
+2021;15;2020-12-26;Leicester City;2;2;Manchester Utd;D
+2021;15;2020-12-26;Fulham;0;0;Southampton;D
+2021;15;2020-12-26;Aston Villa;3;0;Crystal Palace;H
+2021;15;2020-12-26;Arsenal;3;1;Chelsea;H
+2021;15;2020-12-26;Sheffield Utd;0;1;Everton;A
+2021;15;2020-12-26;Manchester City;2;0;Newcastle Utd;H
+2021;15;2020-12-27;Leeds United;1;0;Burnley;H
+2021;15;2020-12-27;West Ham;2;2;Brighton;D
+2021;15;2020-12-27;Liverpool;1;1;West Brom;D
+2021;15;2020-12-27;Wolves;1;1;Tottenham;D
+2021;16;2020-12-28;Crystal Palace;1;1;Leicester City;D
+2021;16;2020-12-28;Chelsea;1;1;Aston Villa;D
+2021;16;2020-12-29;Burnley;1;0;Sheffield Utd;H
+2021;16;2020-12-29;West Brom;0;5;Leeds United;A
+2021;16;2020-12-29;Brighton;0;1;Arsenal;A
+2021;16;2020-12-29;Southampton;0;0;West Ham;D
+2021;16;2020-12-29;Manchester Utd;1;0;Wolves;H
+2021;16;2020-12-30;Newcastle Utd;0;0;Liverpool;D
+2021;17;2021-01-01;Everton;0;1;West Ham;A
+2021;17;2021-01-01;Manchester Utd;2;1;Aston Villa;H
+2021;17;2021-01-02;Tottenham;3;0;Leeds United;H
+2021;17;2021-01-02;Crystal Palace;2;0;Sheffield Utd;H
+2021;17;2021-01-02;Brighton;3;3;Wolves;D
+2021;17;2021-01-02;West Brom;0;4;Arsenal;A
+2021;17;2021-01-03;Newcastle Utd;1;2;Leicester City;A
+2021;17;2021-01-03;Chelsea;1;3;Manchester City;A
+2021;17;2021-01-04;Southampton;1;0;Liverpool;H
+2021;1;2021-01-12;Burnley;0;1;Manchester Utd;A
+2021;18;2021-01-12;Sheffield Utd;1;0;Newcastle Utd;H
+2021;18;2021-01-12;Wolves;1;2;Everton;A
+2021;16;2021-01-13;Tottenham;1;1;Fulham;D
+2021;18;2021-01-13;Manchester City;1;0;Brighton;H
+2021;18;2021-01-14;Arsenal;0;0;Crystal Palace;D
+2021;19;2021-01-16;Wolves;2;3;West Brom;A
+2021;19;2021-01-16;Leeds United;0;1;Brighton;A
+2021;19;2021-01-16;West Ham;1;0;Burnley;H
+2021;19;2021-01-16;Fulham;0;1;Chelsea;A
+2021;19;2021-01-16;Leicester City;2;0;Southampton;H
+2021;19;2021-01-17;Sheffield Utd;1;3;Tottenham;A
+2021;19;2021-01-17;Liverpool;0;0;Manchester Utd;D
+2021;19;2021-01-17;Manchester City;4;0;Crystal Palace;H
+2021;19;2021-01-18;Arsenal;3;0;Newcastle Utd;H
+2021;18;2021-01-19;West Ham;2;1;West Brom;H
+2021;18;2021-01-19;Leicester City;2;0;Chelsea;H
+2021;1;2021-01-20;Manchester City;2;0;Aston Villa;H
+2021;18;2021-01-20;Fulham;1;2;Manchester Utd;A
+2021;18;2021-01-21;Liverpool;0;1;Burnley;A
+2021;11;2021-01-23;Aston Villa;2;0;Newcastle Utd;H
+2021;20;2021-01-26;Newcastle Utd;1;2;Leeds United;A
+2021;20;2021-01-26;Crystal Palace;2;3;West Ham;A
+2021;20;2021-01-26;Southampton;1;3;Arsenal;A
+2021;20;2021-01-26;West Brom;0;5;Manchester City;A
+2021;20;2021-01-27;Burnley;3;2;Aston Villa;H
+2021;20;2021-01-27;Chelsea;0;0;Wolves;D
+2021;20;2021-01-27;Brighton;0;0;Fulham;D
+2021;20;2021-01-27;Everton;1;1;Leicester City;D
+2021;20;2021-01-27;Manchester Utd;1;2;Sheffield Utd;A
+2021;20;2021-01-28;Tottenham;1;3;Liverpool;A
+2021;21;2021-01-30;Everton;0;2;Newcastle Utd;A
+2021;21;2021-01-30;West Brom;2;2;Fulham;D
+2021;21;2021-01-30;Manchester City;1;0;Sheffield Utd;H
+2021;21;2021-01-30;Crystal Palace;1;0;Wolves;H
+2021;21;2021-01-30;Arsenal;0;0;Manchester Utd;D
+2021;21;2021-01-30;Southampton;0;1;Aston Villa;A
+2021;21;2021-01-31;Chelsea;2;0;Burnley;H
+2021;21;2021-01-31;Leicester City;1;3;Leeds United;A
+2021;21;2021-01-31;West Ham;1;3;Liverpool;A
+2021;21;2021-01-31;Brighton;1;0;Tottenham;H
+2021;22;2021-02-02;Wolves;2;1;Arsenal;H
+2021;22;2021-02-02;Sheffield Utd;2;1;West Brom;H
+2021;22;2021-02-02;Manchester Utd;9;0;Southampton;H
+2021;22;2021-02-02;Newcastle Utd;1;2;Crystal Palace;A
+2021;22;2021-02-03;Burnley;0;2;Manchester City;A
+2021;22;2021-02-03;Fulham;0;2;Leicester City;A
+2021;22;2021-02-03;Leeds United;1;2;Everton;A
+2021;22;2021-02-03;Liverpool;0;1;Brighton;A
+2021;22;2021-02-03;Aston Villa;1;3;West Ham;A
+2021;22;2021-02-04;Tottenham;0;1;Chelsea;A
+2021;23;2021-02-06;Aston Villa;1;0;Arsenal;H
+2021;23;2021-02-06;Newcastle Utd;3;2;Southampton;H
+2021;23;2021-02-06;Burnley;1;1;Brighton;D
+2021;23;2021-02-06;Fulham;0;0;West Ham;D
+2021;23;2021-02-06;Manchester Utd;3;3;Everton;D
+2021;23;2021-02-07;Tottenham;2;0;West Brom;H
+2021;23;2021-02-07;Wolves;0;0;Leicester City;D
+2021;23;2021-02-07;Liverpool;1;4;Manchester City;A
+2021;23;2021-02-07;Sheffield Utd;1;2;Chelsea;A
+2021;23;2021-02-08;Leeds United;2;0;Crystal Palace;H
+2021;24;2021-02-13;Leicester City;3;1;Liverpool;H
+2021;24;2021-02-13;Crystal Palace;0;3;Burnley;A
+2021;24;2021-02-13;Manchester City;3;0;Tottenham;H
+2021;24;2021-02-13;Brighton;0;0;Aston Villa;D
+2021;24;2021-02-14;Southampton;1;2;Wolves;A
+2021;24;2021-02-14;West Brom;1;1;Manchester Utd;D
+2021;24;2021-02-14;Arsenal;4;2;Leeds United;H
+2021;24;2021-02-14;Everton;0;2;Fulham;A
+2021;24;2021-02-15;West Ham;3;0;Sheffield Utd;H
+2021;24;2021-02-15;Chelsea;2;0;Newcastle Utd;H
+2021;16;2021-02-17;Everton;1;3;Manchester City;A
+2021;17;2021-02-17;Burnley;1;1;Fulham;D
+2021;25;2021-02-19;Wolves;1;0;Leeds United;H
+2021;25;2021-02-20;Southampton;1;1;Chelsea;D
+2021;25;2021-02-20;Burnley;0;0;West Brom;D
+2021;25;2021-02-20;Liverpool;0;2;Everton;A
+2021;25;2021-02-20;Fulham;1;0;Sheffield Utd;H
+2021;25;2021-02-21;West Ham;2;1;Tottenham;H
+2021;25;2021-02-21;Aston Villa;1;2;Leicester City;A
+2021;25;2021-02-21;Arsenal;0;1;Manchester City;A
+2021;25;2021-02-21;Manchester Utd;3;1;Newcastle Utd;H
+2021;25;2021-02-22;Brighton;1;2;Crystal Palace;A
+2021;18;2021-02-23;Leeds United;3;0;Southampton;H
+2021;26;2021-02-27;Manchester City;2;1;West Ham;H
+2021;26;2021-02-27;West Brom;1;0;Brighton;H
+2021;26;2021-02-27;Leeds United;0;1;Aston Villa;A
+2021;26;2021-02-27;Newcastle Utd;1;1;Wolves;D
+2021;26;2021-02-28;Crystal Palace;0;0;Fulham;D
+2021;26;2021-02-28;Leicester City;1;3;Arsenal;A
+2021;26;2021-02-28;Tottenham;4;0;Burnley;H
+2021;26;2021-02-28;Chelsea;0;0;Manchester Utd;D
+2021;26;2021-02-28;Sheffield Utd;0;2;Liverpool;A
+2021;26;2021-03-01;Everton;1;0;Southampton;H
+2021;29;2021-03-02;Manchester City;4;1;Wolves;H
+2021;29;2021-03-03;Burnley;1;1;Leicester City;D
+2021;29;2021-03-03;Sheffield Utd;1;0;Aston Villa;H
+2021;29;2021-03-03;Crystal Palace;0;0;Manchester Utd;D
+2021;29;2021-03-04;West Brom;0;1;Everton;A
+2021;29;2021-03-04;Liverpool;0;1;Chelsea;A
+2021;33;2021-03-04;Fulham;0;1;Tottenham;A
+2021;27;2021-03-06;Burnley;1;1;Arsenal;D
+2021;27;2021-03-06;Sheffield Utd;0;2;Southampton;A
+2021;27;2021-03-06;Aston Villa;0;0;Wolves;D
+2021;27;2021-03-06;Brighton;1;2;Leicester City;A
+2021;27;2021-03-07;West Brom;0;0;Newcastle Utd;D
+2021;27;2021-03-07;Liverpool;0;1;Fulham;A
+2021;27;2021-03-07;Manchester City;0;2;Manchester Utd;A
+2021;27;2021-03-07;Tottenham;4;1;Crystal Palace;H
+2021;27;2021-03-08;Chelsea;2;0;Everton;H
+2021;27;2021-03-08;West Ham;2;0;Leeds United;H
+2021;33;2021-03-10;Manchester City;5;2;Southampton;H
+2021;28;2021-03-12;Newcastle Utd;1;1;Aston Villa;D
+2021;28;2021-03-13;Leeds United;0;0;Chelsea;D
+2021;28;2021-03-13;Crystal Palace;1;0;West Brom;H
+2021;28;2021-03-13;Everton;1;2;Burnley;A
+2021;28;2021-03-13;Fulham;0;3;Manchester City;A
+2021;28;2021-03-14;Southampton;1;2;Brighton;A
+2021;28;2021-03-14;Leicester City;5;0;Sheffield Utd;H
+2021;28;2021-03-14;Arsenal;2;1;Tottenham;H
+2021;28;2021-03-14;Manchester Utd;1;0;West Ham;H
+2021;28;2021-03-15;Wolves;0;1;Liverpool;A
+2021;29;2021-03-19;Fulham;1;2;Leeds United;A
+2021;29;2021-03-20;Brighton;3;0;Newcastle Utd;H
+2021;18;2021-03-21;Aston Villa;0;2;Tottenham;A
+2021;29;2021-03-21;West Ham;3;3;Arsenal;D
+2021;30;2021-04-03;Chelsea;2;5;West Brom;A
+2021;30;2021-04-03;Leeds United;2;1;Sheffield Utd;H
+2021;30;2021-04-03;Leicester City;0;2;Manchester City;A
+2021;30;2021-04-03;Arsenal;0;3;Liverpool;A
+2021;30;2021-04-04;Southampton;3;2;Burnley;H
+2021;30;2021-04-04;Newcastle Utd;2;2;Tottenham;D
+2021;30;2021-04-04;Aston Villa;3;1;Fulham;H
+2021;30;2021-04-04;Manchester Utd;2;1;Brighton;H
+2021;30;2021-04-05;Everton;1;1;Crystal Palace;D
+2021;30;2021-04-05;Wolves;2;3;West Ham;A
+2021;31;2021-04-09;Fulham;0;1;Wolves;A
+2021;31;2021-04-10;Manchester City;1;2;Leeds United;A
+2021;31;2021-04-10;Liverpool;2;1;Aston Villa;H
+2021;31;2021-04-10;Crystal Palace;1;4;Chelsea;A
+2021;31;2021-04-11;Burnley;1;2;Newcastle Utd;A
+2021;31;2021-04-11;West Ham;3;2;Leicester City;H
+2021;31;2021-04-11;Tottenham;1;3;Manchester Utd;A
+2021;31;2021-04-11;Sheffield Utd;0;3;Arsenal;A
+2021;31;2021-04-12;West Brom;3;0;Southampton;H
+2021;31;2021-04-12;Brighton;0;0;Everton;D
+2021;32;2021-04-16;Everton;2;2;Tottenham;D
+2021;32;2021-04-17;Newcastle Utd;3;2;West Ham;H
+2021;32;2021-04-17;Wolves;1;0;Sheffield Utd;H
+2021;32;2021-04-18;Arsenal;1;1;Fulham;D
+2021;32;2021-04-18;Manchester Utd;3;1;Burnley;H
+2021;32;2021-04-19;Leeds United;1;1;Liverpool;D
+2021;32;2021-04-20;Chelsea;0;0;Brighton;D
+2021;29;2021-04-21;Tottenham;2;1;Southampton;H
+2021;32;2021-04-21;Aston Villa;1;2;Manchester City;A
+2021;32;2021-04-22;Leicester City;3;0;West Brom;H
+2021;33;2021-04-23;Arsenal;0;1;Everton;A
+2021;33;2021-04-24;Liverpool;1;1;Newcastle Utd;D
+2021;33;2021-04-24;West Ham;0;1;Chelsea;A
+2021;33;2021-04-24;Sheffield Utd;1;0;Brighton;H
+2021;33;2021-04-25;Wolves;0;4;Burnley;A
+2021;33;2021-04-25;Leeds United;0;0;Manchester Utd;D
+2021;33;2021-04-25;Aston Villa;2;2;West Brom;D
+2021;33;2021-04-26;Leicester City;2;1;Crystal Palace;H
+2021;34;2021-04-30;Southampton;1;1;Leicester City;D
+2021;34;2021-05-01;Crystal Palace;0;2;Manchester City;A
+2021;34;2021-05-01;Brighton;2;0;Leeds United;H
+2021;34;2021-05-01;Chelsea;2;0;Fulham;H
+2021;34;2021-05-01;Everton;1;2;Aston Villa;A
+2021;34;2021-05-02;Newcastle Utd;0;2;Arsenal;A
+2021;34;2021-05-02;Tottenham;4;0;Sheffield Utd;H
+2021;34;2021-05-03;West Brom;1;1;Wolves;D
+2021;34;2021-05-03;Burnley;1;2;West Ham;A
+2021;35;2021-05-07;Leicester City;2;4;Newcastle Utd;A
+2021;35;2021-05-08;Leeds United;3;1;Tottenham;H
+2021;35;2021-05-08;Sheffield Utd;0;2;Crystal Palace;A
+2021;35;2021-05-08;Manchester City;1;2;Chelsea;A
+2021;35;2021-05-08;Liverpool;2;0;Southampton;H
+2021;35;2021-05-09;Wolves;2;1;Brighton;H
+2021;35;2021-05-09;Aston Villa;1;3;Manchester Utd;A
+2021;35;2021-05-09;West Ham;0;1;Everton;A
+2021;35;2021-05-09;Arsenal;3;1;West Brom;H
+2021;35;2021-05-10;Fulham;0;2;Burnley;A
+2021;32;2021-05-11;Southampton;3;1;Crystal Palace;H
+2021;36;2021-05-11;Manchester Utd;1;2;Leicester City;A
+2021;36;2021-05-12;Chelsea;0;1;Arsenal;A
+2021;19;2021-05-13;Aston Villa;0;0;Everton;D
+2021;34;2021-05-13;Manchester Utd;2;4;Liverpool;A
+2021;36;2021-05-14;Newcastle Utd;3;4;Manchester City;A
+2021;36;2021-05-15;Burnley;0;4;Leeds United;A
+2021;36;2021-05-15;Southampton;3;1;Fulham;H
+2021;36;2021-05-15;Brighton;1;1;West Ham;D
+2021;36;2021-05-16;Crystal Palace;3;2;Aston Villa;H
+2021;36;2021-05-16;Tottenham;2;0;Wolves;H
+2021;36;2021-05-16;West Brom;1;2;Liverpool;A
+2021;36;2021-05-16;Everton;0;1;Sheffield Utd;A
+2021;37;2021-05-18;Manchester Utd;1;1;Fulham;D
+2021;37;2021-05-18;Southampton;0;2;Leeds United;A
+2021;37;2021-05-18;Brighton;3;2;Manchester City;H
+2021;37;2021-05-18;Chelsea;2;1;Leicester City;H
+2021;37;2021-05-19;Tottenham;1;2;Aston Villa;A
+2021;37;2021-05-19;Everton;1;0;Wolves;H
+2021;37;2021-05-19;Newcastle Utd;1;0;Sheffield Utd;H
+2021;37;2021-05-19;Crystal Palace;1;3;Arsenal;A
+2021;37;2021-05-19;Burnley;0;3;Liverpool;A
+2021;37;2021-05-19;West Brom;1;3;West Ham;A
+2021;38;2021-05-23;Leicester City;2;4;Tottenham;A
+2021;38;2021-05-23;Manchester City;5;0;Everton;H
+2021;38;2021-05-23;Liverpool;2;0;Crystal Palace;H
+2021;38;2021-05-23;Sheffield Utd;1;0;Burnley;H
+2021;38;2021-05-23;Wolves;1;2;Manchester Utd;A
+2021;38;2021-05-23;Arsenal;2;0;Brighton;H
+2021;38;2021-05-23;Leeds United;3;1;West Brom;H
+2021;38;2021-05-23;Fulham;0;2;Newcastle Utd;A
+2021;38;2021-05-23;Aston Villa;2;1;Chelsea;H
+2021;38;2021-05-23;West Ham;3;0;Southampton;H
+2022;1;2021-08-13;Brentford;2;0;Arsenal;H
+2022;1;2021-08-14;Manchester Utd;5;1;Leeds United;H
+2022;1;2021-08-14;Watford;3;2;Aston Villa;H
+2022;1;2021-08-14;Chelsea;3;0;Crystal Palace;H
+2022;1;2021-08-14;Everton;3;1;Southampton;H
+2022;1;2021-08-14;Burnley;1;2;Brighton;A
+2022;1;2021-08-14;Leicester City;1;0;Wolves;H
+2022;1;2021-08-14;Norwich City;0;3;Liverpool;A
+2022;1;2021-08-15;Newcastle Utd;2;4;West Ham;A
+2022;1;2021-08-15;Tottenham;1;0;Manchester City;H
+2022;2;2021-08-21;Liverpool;2;0;Burnley;H
+2022;2;2021-08-21;Leeds United;2;2;Everton;D
+2022;2;2021-08-21;Aston Villa;2;0;Newcastle Utd;H
+2022;2;2021-08-21;Crystal Palace;0;0;Brentford;D
+2022;2;2021-08-21;Manchester City;5;0;Norwich City;H
+2022;2;2021-08-21;Brighton;2;0;Watford;H
+2022;2;2021-08-22;Southampton;1;1;Manchester Utd;D
+2022;2;2021-08-22;Wolves;0;1;Tottenham;A
+2022;2;2021-08-22;Arsenal;0;2;Chelsea;A
+2022;2;2021-08-23;West Ham;4;1;Leicester City;H
+2022;3;2021-08-28;Manchester City;5;0;Arsenal;H
+2022;3;2021-08-28;West Ham;2;2;Crystal Palace;D
+2022;3;2021-08-28;Norwich City;1;2;Leicester City;A
+2022;3;2021-08-28;Brighton;0;2;Everton;A
+2022;3;2021-08-28;Newcastle Utd;2;2;Southampton;D
+2022;3;2021-08-28;Aston Villa;1;1;Brentford;D
+2022;3;2021-08-28;Liverpool;1;1;Chelsea;D
+2022;3;2021-08-29;Burnley;1;1;Leeds United;D
+2022;3;2021-08-29;Tottenham;1;0;Watford;H
+2022;3;2021-08-29;Wolves;0;1;Manchester Utd;A
+2022;4;2021-09-11;Crystal Palace;3;0;Tottenham;H
+2022;4;2021-09-11;Southampton;0;0;West Ham;D
+2022;4;2021-09-11;Manchester Utd;4;1;Newcastle Utd;H
+2022;4;2021-09-11;Arsenal;1;0;Norwich City;H
+2022;4;2021-09-11;Leicester City;0;1;Manchester City;A
+2022;4;2021-09-11;Watford;0;2;Wolves;A
+2022;4;2021-09-11;Brentford;0;1;Brighton;A
+2022;4;2021-09-11;Chelsea;3;0;Aston Villa;H
+2022;4;2021-09-12;Leeds United;0;3;Liverpool;A
+2022;4;2021-09-13;Everton;3;1;Burnley;H
+2022;5;2021-09-17;Newcastle Utd;1;1;Leeds United;D
+2022;5;2021-09-18;Wolves;0;2;Brentford;A
+2022;5;2021-09-18;Liverpool;3;0;Crystal Palace;H
+2022;5;2021-09-18;Norwich City;1;3;Watford;A
+2022;5;2021-09-18;Manchester City;0;0;Southampton;D
+2022;5;2021-09-18;Burnley;0;1;Arsenal;A
+2022;5;2021-09-18;Aston Villa;3;0;Everton;H
+2022;5;2021-09-19;West Ham;1;2;Manchester Utd;A
+2022;5;2021-09-19;Brighton;2;1;Leicester City;H
+2022;5;2021-09-19;Tottenham;0;3;Chelsea;A
+2022;6;2021-09-25;Chelsea;0;1;Manchester City;A
+2022;6;2021-09-25;Manchester Utd;0;1;Aston Villa;A
+2022;6;2021-09-25;Everton;2;0;Norwich City;H
+2022;6;2021-09-25;Leeds United;1;2;West Ham;A
+2022;6;2021-09-25;Watford;1;1;Newcastle Utd;D
+2022;6;2021-09-25;Leicester City;2;2;Burnley;D
+2022;6;2021-09-25;Brentford;3;3;Liverpool;D
+2022;6;2021-09-26;Southampton;0;1;Wolves;A
+2022;6;2021-09-26;Arsenal;3;1;Tottenham;H
+2022;6;2021-09-27;Crystal Palace;1;1;Brighton;D
+2022;7;2021-10-02;Manchester Utd;1;1;Everton;D
+2022;7;2021-10-02;Leeds United;1;0;Watford;H
+2022;7;2021-10-02;Wolves;2;1;Newcastle Utd;H
+2022;7;2021-10-02;Burnley;0;0;Norwich City;D
+2022;7;2021-10-02;Chelsea;3;1;Southampton;H
+2022;7;2021-10-02;Brighton;0;0;Arsenal;D
+2022;7;2021-10-03;Crystal Palace;2;2;Leicester City;D
+2022;7;2021-10-03;West Ham;1;2;Brentford;A
+2022;7;2021-10-03;Tottenham;2;1;Aston Villa;H
+2022;7;2021-10-03;Liverpool;2;2;Manchester City;D
+2022;8;2021-10-16;Watford;0;5;Liverpool;A
+2022;8;2021-10-16;Leicester City;4;2;Manchester Utd;H
+2022;8;2021-10-16;Southampton;1;0;Leeds United;H
+2022;8;2021-10-16;Manchester City;2;0;Burnley;H
+2022;8;2021-10-16;Aston Villa;2;3;Wolves;A
+2022;8;2021-10-16;Norwich City;0;0;Brighton;D
+2022;8;2021-10-16;Brentford;0;1;Chelsea;A
+2022;8;2021-10-17;Everton;0;1;West Ham;A
+2022;8;2021-10-17;Newcastle Utd;2;3;Tottenham;A
+2022;8;2021-10-18;Arsenal;2;2;Crystal Palace;D
+2022;9;2021-10-22;Arsenal;3;1;Aston Villa;H
+2022;9;2021-10-23;Chelsea;7;0;Norwich City;H
+2022;9;2021-10-23;Southampton;2;2;Burnley;D
+2022;9;2021-10-23;Crystal Palace;1;1;Newcastle Utd;D
+2022;9;2021-10-23;Everton;2;5;Watford;A
+2022;9;2021-10-23;Leeds United;1;1;Wolves;D
+2022;9;2021-10-23;Brighton;1;4;Manchester City;A
+2022;9;2021-10-24;West Ham;1;0;Tottenham;H
+2022;9;2021-10-24;Brentford;1;2;Leicester City;A
+2022;9;2021-10-24;Manchester Utd;0;5;Liverpool;A
+2022;10;2021-10-30;Leicester City;0;2;Arsenal;A
+2022;10;2021-10-30;Watford;0;1;Southampton;A
+2022;10;2021-10-30;Newcastle Utd;0;3;Chelsea;A
+2022;10;2021-10-30;Liverpool;2;2;Brighton;D
+2022;10;2021-10-30;Burnley;3;1;Brentford;H
+2022;10;2021-10-30;Manchester City;0;2;Crystal Palace;A
+2022;10;2021-10-30;Tottenham;0;3;Manchester Utd;A
+2022;10;2021-10-31;Norwich City;1;2;Leeds United;A
+2022;10;2021-10-31;Aston Villa;1;4;West Ham;A
+2022;10;2021-11-01;Wolves;2;1;Everton;H
+2022;11;2021-11-05;Southampton;1;0;Aston Villa;H
+2022;11;2021-11-06;Manchester Utd;0;2;Manchester City;A
+2022;11;2021-11-06;Crystal Palace;2;0;Wolves;H
+2022;11;2021-11-06;Chelsea;1;1;Burnley;D
+2022;11;2021-11-06;Brentford;1;2;Norwich City;A
+2022;11;2021-11-06;Brighton;1;1;Newcastle Utd;D
+2022;11;2021-11-07;Leeds United;1;1;Leicester City;D
+2022;11;2021-11-07;Everton;0;0;Tottenham;D
+2022;11;2021-11-07;Arsenal;1;0;Watford;H
+2022;11;2021-11-07;West Ham;3;2;Liverpool;H
+2022;12;2021-11-20;Leicester City;0;3;Chelsea;A
+2022;12;2021-11-20;Newcastle Utd;3;3;Brentford;D
+2022;12;2021-11-20;Aston Villa;2;0;Brighton;H
+2022;12;2021-11-20;Watford;4;1;Manchester Utd;H
+2022;12;2021-11-20;Norwich City;2;1;Southampton;H
+2022;12;2021-11-20;Wolves;1;0;West Ham;H
+2022;12;2021-11-20;Burnley;3;3;Crystal Palace;D
+2022;12;2021-11-20;Liverpool;4;0;Arsenal;H
+2022;12;2021-11-21;Manchester City;3;0;Everton;H
+2022;12;2021-11-21;Tottenham;2;1;Leeds United;H
+2022;13;2021-11-27;Arsenal;2;0;Newcastle Utd;H
+2022;13;2021-11-27;Crystal Palace;1;2;Aston Villa;A
+2022;13;2021-11-27;Norwich City;0;0;Wolves;D
+2022;13;2021-11-27;Liverpool;4;0;Southampton;H
+2022;13;2021-11-27;Brighton;0;0;Leeds United;D
+2022;13;2021-11-28;Brentford;1;0;Everton;H
+2022;13;2021-11-28;Leicester City;4;2;Watford;H
+2022;13;2021-11-28;Manchester City;2;1;West Ham;H
+2022;13;2021-11-28;Chelsea;1;1;Manchester Utd;D
+2022;14;2021-11-30;Newcastle Utd;1;1;Norwich City;D
+2022;14;2021-11-30;Leeds United;1;0;Crystal Palace;H
+2022;14;2021-12-01;Wolves;0;0;Burnley;D
+2022;14;2021-12-01;Southampton;2;2;Leicester City;D
+2022;14;2021-12-01;Watford;1;2;Chelsea;A
+2022;14;2021-12-01;West Ham;1;1;Brighton;D
+2022;14;2021-12-01;Everton;1;4;Liverpool;A
+2022;14;2021-12-01;Aston Villa;1;2;Manchester City;A
+2022;14;2021-12-02;Tottenham;2;0;Brentford;H
+2022;14;2021-12-02;Manchester Utd;3;2;Arsenal;H
+2022;15;2021-12-04;West Ham;3;2;Chelsea;H
+2022;15;2021-12-04;Wolves;0;1;Liverpool;A
+2022;15;2021-12-04;Southampton;1;1;Brighton;D
+2022;15;2021-12-04;Newcastle Utd;1;0;Burnley;H
+2022;15;2021-12-04;Watford;1;3;Manchester City;A
+2022;15;2021-12-05;Tottenham;3;0;Norwich City;H
+2022;15;2021-12-05;Manchester Utd;1;0;Crystal Palace;H
+2022;15;2021-12-05;Leeds United;2;2;Brentford;D
+2022;15;2021-12-05;Aston Villa;2;1;Leicester City;H
+2022;15;2021-12-06;Everton;2;1;Arsenal;H
+2022;16;2021-12-10;Brentford;2;1;Watford;H
+2022;16;2021-12-11;Manchester City;1;0;Wolves;H
+2022;16;2021-12-11;Liverpool;1;0;Aston Villa;H
+2022;16;2021-12-11;Chelsea;3;2;Leeds United;H
+2022;16;2021-12-11;Arsenal;3;0;Southampton;H
+2022;16;2021-12-11;Norwich City;0;1;Manchester Utd;A
+2022;16;2021-12-12;Burnley;0;0;West Ham;D
+2022;16;2021-12-12;Leicester City;4;0;Newcastle Utd;H
+2022;16;2021-12-12;Crystal Palace;3;1;Everton;H
+2022;17;2021-12-14;Norwich City;0;2;Aston Villa;A
+2022;17;2021-12-14;Manchester City;7;0;Leeds United;H
+2022;17;2021-12-15;Crystal Palace;2;2;Southampton;D
+2022;17;2021-12-15;Brighton;0;1;Wolves;A
+2022;17;2021-12-15;Arsenal;2;0;West Ham;H
+2022;17;2021-12-16;Chelsea;1;1;Everton;D
+2022;17;2021-12-16;Liverpool;3;1;Newcastle Utd;H
+2022;18;2021-12-18;Leeds United;1;4;Arsenal;A
+2022;18;2021-12-19;Wolves;0;0;Chelsea;D
+2022;18;2021-12-19;Newcastle Utd;0;4;Manchester City;A
+2022;18;2021-12-19;Tottenham;2;2;Liverpool;D
+2022;19;2021-12-26;West Ham;2;3;Southampton;A
+2022;19;2021-12-26;Manchester City;6;3;Leicester City;H
+2022;19;2021-12-26;Norwich City;0;5;Arsenal;A
+2022;19;2021-12-26;Tottenham;3;0;Crystal Palace;H
+2022;19;2021-12-26;Aston Villa;1;3;Chelsea;A
+2022;19;2021-12-26;Brighton;2;0;Brentford;H
+2022;19;2021-12-27;Newcastle Utd;1;1;Manchester Utd;D
+2022;20;2021-12-28;Southampton;1;1;Tottenham;D
+2022;20;2021-12-28;Crystal Palace;3;0;Norwich City;H
+2022;20;2021-12-28;Watford;1;4;West Ham;A
+2022;20;2021-12-28;Leicester City;1;0;Liverpool;H
+2022;20;2021-12-29;Chelsea;1;1;Brighton;D
+2022;20;2021-12-29;Brentford;0;1;Manchester City;A
+2022;20;2021-12-30;Manchester Utd;3;1;Burnley;H
+2022;21;2022-01-01;Arsenal;1;2;Manchester City;A
+2022;21;2022-01-01;Watford;0;1;Tottenham;A
+2022;21;2022-01-01;Crystal Palace;2;3;West Ham;A
+2022;21;2022-01-02;Leeds United;3;1;Burnley;H
+2022;21;2022-01-02;Everton;2;3;Brighton;A
+2022;21;2022-01-02;Brentford;2;1;Aston Villa;H
+2022;21;2022-01-02;Chelsea;2;2;Liverpool;D
+2022;21;2022-01-03;Manchester Utd;0;1;Wolves;A
+2022;18;2022-01-11;Southampton;4;1;Brentford;H
+2022;18;2022-01-12;West Ham;2;0;Norwich City;H
+2022;22;2022-01-14;Brighton;1;1;Crystal Palace;D
+2022;22;2022-01-15;Manchester City;1;0;Chelsea;H
+2022;22;2022-01-15;Newcastle Utd;1;1;Watford;D
+2022;22;2022-01-15;Wolves;3;1;Southampton;H
+2022;22;2022-01-15;Norwich City;2;1;Everton;H
+2022;22;2022-01-15;Aston Villa;2;2;Manchester Utd;D
+2022;22;2022-01-16;West Ham;2;3;Leeds United;A
+2022;22;2022-01-16;Liverpool;3;0;Brentford;H
+2022;24;2022-01-18;Brighton;1;1;Chelsea;D
+2022;17;2022-01-19;Leicester City;2;3;Tottenham;A
+2022;17;2022-01-19;Brentford;1;3;Manchester Utd;A
+2022;23;2022-01-21;Watford;0;3;Norwich City;A
+2022;23;2022-01-22;Everton;0;1;Aston Villa;A
+2022;23;2022-01-22;Manchester Utd;1;0;West Ham;H
+2022;23;2022-01-22;Brentford;1;2;Wolves;A
+2022;23;2022-01-22;Leeds United;0;1;Newcastle Utd;A
+2022;23;2022-01-22;Southampton;1;1;Manchester City;D
+2022;23;2022-01-23;Leicester City;1;1;Brighton;D
+2022;23;2022-01-23;Crystal Palace;1;3;Liverpool;A
+2022;23;2022-01-23;Arsenal;0;0;Burnley;D
+2022;23;2022-01-23;Chelsea;2;0;Tottenham;H
+2022;17;2022-02-05;Burnley;0;0;Watford;D
+2022;24;2022-02-08;Newcastle Utd;3;1;Everton;H
+2022;24;2022-02-08;West Ham;1;0;Watford;H
+2022;24;2022-02-08;Burnley;1;1;Manchester Utd;D
+2022;24;2022-02-09;Tottenham;2;3;Southampton;A
+2022;24;2022-02-09;Manchester City;2;0;Brentford;H
+2022;24;2022-02-09;Norwich City;1;1;Crystal Palace;D
+2022;24;2022-02-09;Aston Villa;3;3;Leeds United;D
+2022;24;2022-02-10;Wolves;0;1;Arsenal;A
+2022;24;2022-02-10;Liverpool;2;0;Leicester City;H
+2022;25;2022-02-12;Manchester Utd;1;1;Southampton;D
+2022;25;2022-02-12;Brentford;0;0;Crystal Palace;D
+2022;25;2022-02-12;Everton;3;0;Leeds United;H
+2022;25;2022-02-12;Watford;0;2;Brighton;A
+2022;25;2022-02-12;Norwich City;0;4;Manchester City;A
+2022;25;2022-02-13;Tottenham;0;2;Wolves;A
+2022;25;2022-02-13;Burnley;0;1;Liverpool;A
+2022;25;2022-02-13;Newcastle Utd;1;0;Aston Villa;H
+2022;25;2022-02-13;Leicester City;2;2;West Ham;D
+2022;18;2022-02-15;Manchester Utd;2;0;Brighton;H
+2022;26;2022-02-19;West Ham;1;1;Newcastle Utd;D
+2022;26;2022-02-19;Aston Villa;0;1;Watford;A
+2022;26;2022-02-19;Liverpool;3;1;Norwich City;H
+2022;26;2022-02-19;Crystal Palace;0;1;Chelsea;A
+2022;26;2022-02-19;Arsenal;2;1;Brentford;H
+2022;26;2022-02-19;Southampton;2;0;Everton;H
+2022;26;2022-02-19;Brighton;0;3;Burnley;A
+2022;26;2022-02-19;Manchester City;2;3;Tottenham;A
+2022;26;2022-02-20;Leeds United;2;4;Manchester Utd;A
+2022;26;2022-02-20;Wolves;2;1;Leicester City;H
+2022;13;2022-02-23;Burnley;1;0;Tottenham;H
+2022;18;2022-02-23;Watford;1;4;Crystal Palace;A
+2022;19;2022-02-23;Liverpool;6;0;Leeds United;H
+2022;20;2022-02-24;Arsenal;2;1;Wolves;H
+2022;27;2022-02-25;Southampton;2;0;Norwich City;H
+2022;27;2022-02-26;Leeds United;0;4;Tottenham;A
+2022;27;2022-02-26;Crystal Palace;1;1;Burnley;D
+2022;27;2022-02-26;Brighton;0;2;Aston Villa;A
+2022;27;2022-02-26;Manchester Utd;0;0;Watford;D
+2022;27;2022-02-26;Brentford;0;2;Newcastle Utd;A
+2022;27;2022-02-26;Everton;0;1;Manchester City;A
+2022;27;2022-02-27;West Ham;1;0;Wolves;H
+2022;22;2022-03-01;Burnley;0;2;Leicester City;A
+2022;28;2022-03-05;Leicester City;1;0;Leeds United;H
+2022;28;2022-03-05;Wolves;0;2;Crystal Palace;A
+2022;28;2022-03-05;Aston Villa;4;0;Southampton;H
+2022;28;2022-03-05;Newcastle Utd;2;1;Brighton;H
+2022;28;2022-03-05;Norwich City;1;3;Brentford;A
+2022;28;2022-03-05;Burnley;0;4;Chelsea;A
+2022;28;2022-03-05;Liverpool;1;0;West Ham;H
+2022;28;2022-03-06;Watford;2;3;Arsenal;A
+2022;28;2022-03-06;Manchester City;4;1;Manchester Utd;H
+2022;28;2022-03-07;Tottenham;5;0;Everton;H
+2022;19;2022-03-10;Wolves;4;0;Watford;H
+2022;20;2022-03-10;Leeds United;0;3;Aston Villa;A
+2022;21;2022-03-10;Southampton;1;2;Newcastle Utd;A
+2022;30;2022-03-10;Norwich City;1;3;Chelsea;A
+2022;29;2022-03-12;Brighton;0;2;Liverpool;A
+2022;29;2022-03-12;Brentford;2;0;Burnley;H
+2022;29;2022-03-12;Manchester Utd;3;2;Tottenham;H
+2022;29;2022-03-13;Leeds United;2;1;Norwich City;H
+2022;29;2022-03-13;Chelsea;1;0;Newcastle Utd;H
+2022;29;2022-03-13;West Ham;2;1;Aston Villa;H
+2022;29;2022-03-13;Southampton;1;2;Watford;A
+2022;29;2022-03-13;Everton;0;1;Wolves;A
+2022;29;2022-03-13;Arsenal;2;0;Leicester City;H
+2022;29;2022-03-14;Crystal Palace;0;0;Manchester City;D
+2022;16;2022-03-16;Brighton;0;2;Tottenham;A
+2022;27;2022-03-16;Arsenal;0;2;Liverpool;A
+2022;20;2022-03-17;Everton;1;0;Newcastle Utd;H
+2022;30;2022-03-18;Wolves;2;3;Leeds United;A
+2022;30;2022-03-19;Aston Villa;0;1;Arsenal;A
+2022;30;2022-03-20;Leicester City;2;1;Brentford;H
+2022;30;2022-03-20;Tottenham;3;1;West Ham;H
+2022;31;2022-04-02;Liverpool;2;0;Watford;H
+2022;31;2022-04-02;Leeds United;1;1;Southampton;D
+2022;31;2022-04-02;Burnley;0;2;Manchester City;A
+2022;31;2022-04-02;Wolves;2;1;Aston Villa;H
+2022;31;2022-04-02;Chelsea;1;4;Brentford;A
+2022;31;2022-04-02;Brighton;0;0;Norwich City;D
+2022;31;2022-04-02;Manchester Utd;1;1;Leicester City;D
+2022;31;2022-04-03;West Ham;2;1;Everton;H
+2022;31;2022-04-03;Tottenham;5;1;Newcastle Utd;H
+2022;31;2022-04-04;Crystal Palace;3;0;Arsenal;H
+2022;19;2022-04-06;Burnley;3;2;Everton;H
+2022;32;2022-04-08;Newcastle Utd;1;0;Wolves;H
+2022;32;2022-04-09;Everton;1;0;Manchester Utd;H
+2022;32;2022-04-09;Arsenal;1;2;Brighton;A
+2022;32;2022-04-09;Southampton;0;6;Chelsea;A
+2022;32;2022-04-09;Watford;0;3;Leeds United;A
+2022;32;2022-04-09;Aston Villa;0;4;Tottenham;A
+2022;32;2022-04-10;Norwich City;2;0;Burnley;H
+2022;32;2022-04-10;Brentford;2;0;West Ham;H
+2022;32;2022-04-10;Leicester City;2;1;Crystal Palace;H
+2022;32;2022-04-10;Manchester City;2;2;Liverpool;D
+2022;33;2022-04-16;Tottenham;0;1;Brighton;A
+2022;33;2022-04-16;Manchester Utd;3;2;Norwich City;H
+2022;33;2022-04-16;Southampton;1;0;Arsenal;H
+2022;33;2022-04-16;Watford;1;2;Brentford;A
+2022;33;2022-04-17;West Ham;1;1;Burnley;D
+2022;33;2022-04-17;Newcastle Utd;2;1;Leicester City;H
+2022;30;2022-04-19;Liverpool;4;0;Manchester Utd;H
+2022;18;2022-04-20;Everton;1;1;Leicester City;D
+2022;25;2022-04-20;Chelsea;2;4;Arsenal;A
+2022;30;2022-04-20;Newcastle Utd;1;0;Crystal Palace;H
+2022;30;2022-04-20;Manchester City;3;0;Brighton;H
+2022;30;2022-04-21;Burnley;2;0;Southampton;H
+2022;34;2022-04-23;Arsenal;3;1;Manchester Utd;H
+2022;34;2022-04-23;Manchester City;5;1;Watford;H
+2022;34;2022-04-23;Leicester City;0;0;Aston Villa;D
+2022;34;2022-04-23;Norwich City;0;3;Newcastle Utd;A
+2022;34;2022-04-23;Brentford;0;0;Tottenham;D
+2022;34;2022-04-24;Chelsea;1;0;West Ham;H
+2022;34;2022-04-24;Burnley;1;0;Wolves;H
+2022;34;2022-04-24;Brighton;2;2;Southampton;D
+2022;34;2022-04-24;Liverpool;2;0;Everton;H
+2022;34;2022-04-25;Crystal Palace;0;0;Leeds United;D
+2022;37;2022-04-28;Manchester Utd;1;1;Chelsea;D
+2022;35;2022-04-30;Newcastle Utd;0;1;Liverpool;A
+2022;35;2022-04-30;Watford;1;2;Burnley;A
+2022;35;2022-04-30;Southampton;1;2;Crystal Palace;A
+2022;35;2022-04-30;Wolves;0;3;Brighton;A
+2022;35;2022-04-30;Aston Villa;2;0;Norwich City;H
+2022;35;2022-04-30;Leeds United;0;4;Manchester City;A
+2022;35;2022-05-01;Tottenham;3;1;Leicester City;H
+2022;35;2022-05-01;Everton;1;0;Chelsea;H
+2022;35;2022-05-01;West Ham;1;2;Arsenal;A
+2022;35;2022-05-02;Manchester Utd;3;0;Brentford;H
+2022;36;2022-05-07;Chelsea;2;2;Wolves;D
+2022;36;2022-05-07;Brentford;3;0;Southampton;H
+2022;36;2022-05-07;Crystal Palace;1;0;Watford;H
+2022;36;2022-05-07;Burnley;1;3;Aston Villa;A
+2022;36;2022-05-07;Brighton;4;0;Manchester Utd;H
+2022;36;2022-05-07;Liverpool;1;1;Tottenham;D
+2022;36;2022-05-08;Norwich City;0;4;West Ham;A
+2022;36;2022-05-08;Arsenal;2;1;Leeds United;H
+2022;36;2022-05-08;Leicester City;1;2;Everton;A
+2022;36;2022-05-08;Manchester City;5;0;Newcastle Utd;H
+2022;33;2022-05-10;Aston Villa;1;2;Liverpool;A
+2022;21;2022-05-11;Leicester City;3;0;Norwich City;H
+2022;30;2022-05-11;Watford;0;0;Everton;D
+2022;33;2022-05-11;Leeds United;0;3;Chelsea;A
+2022;33;2022-05-11;Wolves;1;5;Manchester City;A
+2022;22;2022-05-12;Tottenham;3;0;Arsenal;H
+2022;37;2022-05-15;Tottenham;1;0;Burnley;H
+2022;37;2022-05-15;Watford;1;5;Leicester City;A
+2022;37;2022-05-15;West Ham;2;2;Manchester City;D
+2022;37;2022-05-15;Leeds United;1;1;Brighton;D
+2022;37;2022-05-15;Wolves;1;1;Norwich City;D
+2022;37;2022-05-15;Aston Villa;1;1;Crystal Palace;D
+2022;37;2022-05-15;Everton;2;3;Brentford;A
+2022;37;2022-05-16;Newcastle Utd;2;0;Arsenal;H
+2022;37;2022-05-17;Southampton;1;2;Liverpool;A
+2022;18;2022-05-19;Aston Villa;1;1;Burnley;D
+2022;27;2022-05-19;Chelsea;1;1;Leicester City;D
+2022;33;2022-05-19;Everton;3;2;Crystal Palace;H
+2022;38;2022-05-22;Brighton;3;1;West Ham;H
+2022;38;2022-05-22;Brentford;1;2;Leeds United;A
+2022;38;2022-05-22;Leicester City;4;1;Southampton;H
+2022;38;2022-05-22;Arsenal;5;1;Everton;H
+2022;38;2022-05-22;Crystal Palace;1;0;Manchester Utd;H
+2022;38;2022-05-22;Norwich City;0;5;Tottenham;A
+2022;38;2022-05-22;Burnley;1;2;Newcastle Utd;A
+2022;38;2022-05-22;Liverpool;3;1;Wolves;H
+2022;38;2022-05-22;Manchester City;3;2;Aston Villa;H
+2022;38;2022-05-22;Chelsea;2;1;Watford;H
+2023;1;2022-08-05;Crystal Palace;0;2;Arsenal;A
+2023;1;2022-08-06;Fulham;2;2;Liverpool;D
+2023;1;2022-08-06;Tottenham;4;1;Southampton;H
+2023;1;2022-08-06;Newcastle Utd;2;0;Nott'ham Forest;H
+2023;1;2022-08-06;Leeds United;2;1;Wolves;H
+2023;1;2022-08-06;Bournemouth;2;0;Aston Villa;H
+2023;1;2022-08-06;Everton;0;1;Chelsea;A
+2023;1;2022-08-07;Leicester City;2;2;Brentford;D
+2023;1;2022-08-07;Manchester Utd;1;2;Brighton;A
+2023;1;2022-08-07;West Ham;0;2;Manchester City;A
+2023;2;2022-08-13;Aston Villa;2;1;Everton;H
+2023;2;2022-08-13;Manchester City;4;0;Bournemouth;H
+2023;2;2022-08-13;Southampton;2;2;Leeds United;D
+2023;2;2022-08-13;Wolves;0;0;Fulham;D
+2023;2;2022-08-13;Arsenal;4;2;Leicester City;H
+2023;2;2022-08-13;Brighton;0;0;Newcastle Utd;D
+2023;2;2022-08-13;Brentford;4;0;Manchester Utd;H
+2023;2;2022-08-14;Nott'ham Forest;1;0;West Ham;H
+2023;2;2022-08-14;Chelsea;2;2;Tottenham;D
+2023;2;2022-08-15;Liverpool;1;1;Crystal Palace;D
+2023;3;2022-08-20;Tottenham;1;0;Wolves;H
+2023;3;2022-08-20;Leicester City;1;2;Southampton;A
+2023;3;2022-08-20;Everton;1;1;Nott'ham Forest;D
+2023;3;2022-08-20;Crystal Palace;3;1;Aston Villa;H
+2023;3;2022-08-20;Fulham;3;2;Brentford;H
+2023;3;2022-08-20;Bournemouth;0;3;Arsenal;A
+2023;3;2022-08-21;Leeds United;3;0;Chelsea;H
+2023;3;2022-08-21;West Ham;0;2;Brighton;A
+2023;3;2022-08-21;Newcastle Utd;3;3;Manchester City;D
+2023;3;2022-08-22;Manchester Utd;2;1;Liverpool;H
+2023;4;2022-08-27;Southampton;0;1;Manchester Utd;A
+2023;4;2022-08-27;Manchester City;4;2;Crystal Palace;H
+2023;4;2022-08-27;Brighton;1;0;Leeds United;H
+2023;4;2022-08-27;Chelsea;2;1;Leicester City;H
+2023;4;2022-08-27;Brentford;1;1;Everton;D
+2023;4;2022-08-27;Liverpool;9;0;Bournemouth;H
+2023;4;2022-08-27;Arsenal;2;1;Fulham;H
+2023;4;2022-08-28;Wolves;1;1;Newcastle Utd;D
+2023;4;2022-08-28;Aston Villa;0;1;West Ham;A
+2023;4;2022-08-28;Nott'ham Forest;0;2;Tottenham;A
+2023;5;2022-08-30;Fulham;2;1;Brighton;H
+2023;5;2022-08-30;Crystal Palace;1;1;Brentford;D
+2023;5;2022-08-30;Southampton;2;1;Chelsea;H
+2023;5;2022-08-30;Leeds United;1;1;Everton;D
+2023;5;2022-08-31;Bournemouth;0;0;Wolves;D
+2023;5;2022-08-31;Manchester City;6;0;Nott'ham Forest;H
+2023;5;2022-08-31;Arsenal;2;1;Aston Villa;H
+2023;5;2022-08-31;West Ham;1;1;Tottenham;D
+2023;5;2022-08-31;Liverpool;2;1;Newcastle Utd;H
+2023;5;2022-09-01;Leicester City;0;1;Manchester Utd;A
+2023;6;2022-09-03;Everton;0;0;Liverpool;D
+2023;6;2022-09-03;Nott'ham Forest;2;3;Bournemouth;A
+2023;6;2022-09-03;Wolves;1;0;Southampton;H
+2023;6;2022-09-03;Newcastle Utd;0;0;Crystal Palace;D
+2023;6;2022-09-03;Brentford;5;2;Leeds United;H
+2023;6;2022-09-03;Tottenham;2;1;Fulham;H
+2023;6;2022-09-03;Chelsea;2;1;West Ham;H
+2023;6;2022-09-03;Aston Villa;1;1;Manchester City;D
+2023;6;2022-09-04;Brighton;5;2;Leicester City;H
+2023;6;2022-09-04;Manchester Utd;3;1;Arsenal;H
+2023;8;2022-09-16;Aston Villa;1;0;Southampton;H
+2023;8;2022-09-16;Nott'ham Forest;2;3;Fulham;A
+2023;8;2022-09-17;Wolves;0;3;Manchester City;A
+2023;8;2022-09-17;Newcastle Utd;1;1;Bournemouth;D
+2023;8;2022-09-17;Tottenham;6;2;Leicester City;H
+2023;8;2022-09-18;Brentford;0;3;Arsenal;A
+2023;8;2022-09-18;Everton;1;0;West Ham;H
+2023;9;2022-10-01;Arsenal;3;1;Tottenham;H
+2023;9;2022-10-01;Southampton;1;2;Everton;A
+2023;9;2022-10-01;Crystal Palace;1;2;Chelsea;A
+2023;9;2022-10-01;Liverpool;3;3;Brighton;D
+2023;9;2022-10-01;Fulham;1;4;Newcastle Utd;A
+2023;9;2022-10-01;Bournemouth;0;0;Brentford;D
+2023;9;2022-10-01;West Ham;2;0;Wolves;H
+2023;9;2022-10-02;Manchester City;6;3;Manchester Utd;H
+2023;9;2022-10-02;Leeds United;0;0;Aston Villa;D
+2023;9;2022-10-03;Leicester City;4;0;Nott'ham Forest;H
+2023;10;2022-10-08;Bournemouth;2;1;Leicester City;H
+2023;10;2022-10-08;Newcastle Utd;5;1;Brentford;H
+2023;10;2022-10-08;Manchester City;4;0;Southampton;H
+2023;10;2022-10-08;Chelsea;3;0;Wolves;H
+2023;10;2022-10-08;Brighton;0;1;Tottenham;A
+2023;10;2022-10-09;West Ham;3;1;Fulham;H
+2023;10;2022-10-09;Crystal Palace;2;1;Leeds United;H
+2023;10;2022-10-09;Arsenal;3;2;Liverpool;H
+2023;10;2022-10-09;Everton;1;2;Manchester Utd;A
+2023;10;2022-10-10;Nott'ham Forest;1;1;Aston Villa;D
+2023;11;2022-10-14;Brentford;2;0;Brighton;H
+2023;11;2022-10-15;Leicester City;0;0;Crystal Palace;D
+2023;11;2022-10-15;Fulham;2;2;Bournemouth;D
+2023;11;2022-10-15;Wolves;1;0;Nott'ham Forest;H
+2023;11;2022-10-15;Tottenham;2;0;Everton;H
+2023;11;2022-10-16;Southampton;1;1;West Ham;D
+2023;11;2022-10-16;Aston Villa;0;2;Chelsea;A
+2023;11;2022-10-16;Leeds United;0;1;Arsenal;A
+2023;11;2022-10-16;Manchester Utd;0;0;Newcastle Utd;D
+2023;11;2022-10-16;Liverpool;1;0;Manchester City;H
+2023;12;2022-10-18;Brighton;0;0;Nott'ham Forest;D
+2023;12;2022-10-18;Crystal Palace;2;1;Wolves;H
+2023;12;2022-10-19;Bournemouth;0;1;Southampton;A
+2023;12;2022-10-19;Brentford;0;0;Chelsea;D
+2023;12;2022-10-19;Liverpool;1;0;West Ham;H
+2023;12;2022-10-19;Newcastle Utd;1;0;Everton;H
+2023;12;2022-10-19;Manchester Utd;2;0;Tottenham;H
+2023;12;2022-10-20;Fulham;3;0;Aston Villa;H
+2023;12;2022-10-20;Leicester City;2;0;Leeds United;H
+2023;13;2022-10-22;Nott'ham Forest;1;0;Liverpool;H
+2023;13;2022-10-22;Everton;3;0;Crystal Palace;H
+2023;13;2022-10-22;Manchester City;3;1;Brighton;H
+2023;13;2022-10-22;Chelsea;1;1;Manchester Utd;D
+2023;13;2022-10-23;Aston Villa;4;0;Brentford;H
+2023;13;2022-10-23;Wolves;0;4;Leicester City;A
+2023;13;2022-10-23;Leeds United;2;3;Fulham;A
+2023;13;2022-10-23;Southampton;1;1;Arsenal;D
+2023;13;2022-10-23;Tottenham;1;2;Newcastle Utd;A
+2023;13;2022-10-24;West Ham;2;0;Bournemouth;H
+2023;14;2022-10-29;Leicester City;0;1;Manchester City;A
+2023;14;2022-10-29;Brentford;1;1;Wolves;D
+2023;14;2022-10-29;Crystal Palace;1;0;Southampton;H
+2023;14;2022-10-29;Newcastle Utd;4;0;Aston Villa;H
+2023;14;2022-10-29;Brighton;4;1;Chelsea;H
+2023;14;2022-10-29;Bournemouth;2;3;Tottenham;A
+2023;14;2022-10-29;Fulham;0;0;Everton;D
+2023;14;2022-10-29;Liverpool;1;2;Leeds United;A
+2023;14;2022-10-30;Arsenal;5;0;Nott'ham Forest;H
+2023;14;2022-10-30;Manchester Utd;1;0;West Ham;H
+2023;15;2022-11-05;Nott'ham Forest;2;2;Brentford;D
+2023;15;2022-11-05;Leeds United;4;3;Bournemouth;H
+2023;15;2022-11-05;Manchester City;2;1;Fulham;H
+2023;15;2022-11-05;Wolves;2;3;Brighton;A
+2023;15;2022-11-05;Everton;0;2;Leicester City;A
+2023;15;2022-11-06;Chelsea;0;1;Arsenal;A
+2023;15;2022-11-06;West Ham;1;2;Crystal Palace;A
+2023;15;2022-11-06;Southampton;1;4;Newcastle Utd;A
+2023;15;2022-11-06;Aston Villa;3;1;Manchester Utd;H
+2023;15;2022-11-06;Tottenham;1;2;Liverpool;A
+2023;16;2022-11-12;Manchester City;1;2;Brentford;A
+2023;16;2022-11-12;Tottenham;4;3;Leeds United;H
+2023;16;2022-11-12;Liverpool;3;1;Southampton;H
+2023;16;2022-11-12;Bournemouth;3;0;Everton;H
+2023;16;2022-11-12;West Ham;0;2;Leicester City;A
+2023;16;2022-11-12;Nott'ham Forest;1;0;Crystal Palace;H
+2023;16;2022-11-12;Newcastle Utd;1;0;Chelsea;H
+2023;16;2022-11-12;Wolves;0;2;Arsenal;A
+2023;16;2022-11-13;Brighton;1;2;Aston Villa;A
+2023;16;2022-11-13;Fulham;1;2;Manchester Utd;A
+2023;17;2022-12-26;Brentford;2;2;Tottenham;D
+2023;17;2022-12-26;Southampton;1;3;Brighton;A
+2023;17;2022-12-26;Leicester City;0;3;Newcastle Utd;A
+2023;17;2022-12-26;Crystal Palace;0;3;Fulham;A
+2023;17;2022-12-26;Everton;1;2;Wolves;A
+2023;17;2022-12-26;Aston Villa;1;3;Liverpool;A
+2023;17;2022-12-26;Arsenal;3;1;West Ham;H
+2023;17;2022-12-27;Chelsea;2;0;Bournemouth;H
+2023;17;2022-12-27;Manchester Utd;3;0;Nott'ham Forest;H
+2023;17;2022-12-28;Leeds United;1;3;Manchester City;A
+2023;18;2022-12-30;West Ham;0;2;Brentford;A
+2023;18;2022-12-30;Liverpool;2;1;Leicester City;H
+2023;18;2022-12-31;Wolves;0;1;Manchester Utd;A
+2023;18;2022-12-31;Newcastle Utd;0;0;Leeds United;D
+2023;18;2022-12-31;Fulham;2;1;Southampton;H
+2023;18;2022-12-31;Manchester City;1;1;Everton;D
+2023;18;2022-12-31;Bournemouth;0;2;Crystal Palace;A
+2023;18;2022-12-31;Brighton;2;4;Arsenal;A
+2023;18;2023-01-01;Tottenham;0;2;Aston Villa;A
+2023;18;2023-01-01;Nott'ham Forest;1;1;Chelsea;D
+2023;19;2023-01-02;Brentford;3;1;Liverpool;H
+2023;19;2023-01-03;Leicester City;0;1;Fulham;A
+2023;19;2023-01-03;Everton;1;4;Brighton;A
+2023;19;2023-01-03;Arsenal;0;0;Newcastle Utd;D
+2023;19;2023-01-03;Manchester Utd;3;0;Bournemouth;H
+2023;19;2023-01-04;Southampton;0;1;Nott'ham Forest;A
+2023;19;2023-01-04;Leeds United;2;2;West Ham;D
+2023;19;2023-01-04;Aston Villa;1;1;Wolves;D
+2023;19;2023-01-04;Crystal Palace;0;4;Tottenham;A
+2023;19;2023-01-05;Chelsea;0;1;Manchester City;A
+2023;7;2023-01-12;Fulham;2;1;Chelsea;H
+2023;20;2023-01-13;Aston Villa;2;1;Leeds United;H
+2023;20;2023-01-14;Manchester Utd;2;1;Manchester City;H
+2023;20;2023-01-14;Everton;1;2;Southampton;A
+2023;20;2023-01-14;Wolves;1;0;West Ham;H
+2023;20;2023-01-14;Nott'ham Forest;2;0;Leicester City;H
+2023;20;2023-01-14;Brighton;3;0;Liverpool;H
+2023;20;2023-01-14;Brentford;2;0;Bournemouth;H
+2023;20;2023-01-15;Chelsea;1;0;Crystal Palace;H
+2023;20;2023-01-15;Newcastle Utd;1;0;Fulham;H
+2023;20;2023-01-15;Tottenham;0;2;Arsenal;A
+2023;7;2023-01-18;Crystal Palace;1;1;Manchester Utd;D
+2023;7;2023-01-19;Manchester City;4;2;Tottenham;H
+2023;21;2023-01-21;Liverpool;0;0;Chelsea;D
+2023;21;2023-01-21;Bournemouth;1;1;Nott'ham Forest;D
+2023;21;2023-01-21;Southampton;0;1;Aston Villa;A
+2023;21;2023-01-21;Leicester City;2;2;Brighton;D
+2023;21;2023-01-21;West Ham;2;0;Everton;H
+2023;21;2023-01-21;Crystal Palace;0;0;Newcastle Utd;D
+2023;21;2023-01-22;Manchester City;3;0;Wolves;H
+2023;21;2023-01-22;Leeds United;0;0;Brentford;D
+2023;21;2023-01-22;Arsenal;3;2;Manchester Utd;H
+2023;21;2023-01-23;Fulham;0;1;Tottenham;A
+2023;22;2023-02-03;Chelsea;0;0;Fulham;D
+2023;22;2023-02-04;Everton;1;0;Arsenal;H
+2023;22;2023-02-04;Aston Villa;2;4;Leicester City;A
+2023;22;2023-02-04;Wolves;3;0;Liverpool;H
+2023;22;2023-02-04;Manchester Utd;2;1;Crystal Palace;H
+2023;22;2023-02-04;Brighton;1;0;Bournemouth;H
+2023;22;2023-02-04;Brentford;3;0;Southampton;H
+2023;22;2023-02-04;Newcastle Utd;1;1;West Ham;D
+2023;22;2023-02-05;Nott'ham Forest;1;0;Leeds United;H
+2023;22;2023-02-05;Tottenham;1;0;Manchester City;H
+2023;8;2023-02-08;Manchester Utd;2;2;Leeds United;D
+2023;23;2023-02-11;West Ham;1;1;Chelsea;D
+2023;23;2023-02-11;Leicester City;4;1;Tottenham;H
+2023;23;2023-02-11;Crystal Palace;1;1;Brighton;D
+2023;23;2023-02-11;Arsenal;1;1;Brentford;D
+2023;23;2023-02-11;Southampton;1;2;Wolves;A
+2023;23;2023-02-11;Fulham;2;0;Nott'ham Forest;H
+2023;23;2023-02-11;Bournemouth;1;1;Newcastle Utd;D
+2023;23;2023-02-12;Leeds United;0;2;Manchester Utd;A
+2023;23;2023-02-12;Manchester City;3;1;Aston Villa;H
+2023;23;2023-02-13;Liverpool;2;0;Everton;H
+2023;12;2023-02-15;Arsenal;1;3;Manchester City;A
+2023;24;2023-02-18;Aston Villa;2;4;Arsenal;A
+2023;24;2023-02-18;Brighton;0;1;Fulham;A
+2023;24;2023-02-18;Nott'ham Forest;1;1;Manchester City;D
+2023;24;2023-02-18;Chelsea;0;1;Southampton;A
+2023;24;2023-02-18;Everton;1;0;Leeds United;H
+2023;24;2023-02-18;Wolves;0;1;Bournemouth;A
+2023;24;2023-02-18;Brentford;1;1;Crystal Palace;D
+2023;24;2023-02-18;Newcastle Utd;0;2;Liverpool;A
+2023;24;2023-02-19;Manchester Utd;3;0;Leicester City;H
+2023;24;2023-02-19;Tottenham;2;0;West Ham;H
+2023;25;2023-02-24;Fulham;1;1;Wolves;D
+2023;25;2023-02-25;Leicester City;0;1;Arsenal;A
+2023;25;2023-02-25;Everton;0;2;Aston Villa;A
+2023;25;2023-02-25;West Ham;4;0;Nott'ham Forest;H
+2023;25;2023-02-25;Leeds United;1;0;Southampton;H
+2023;25;2023-02-25;Bournemouth;1;4;Manchester City;A
+2023;25;2023-02-25;Crystal Palace;0;0;Liverpool;D
+2023;25;2023-02-26;Tottenham;2;0;Chelsea;H
+2023;7;2023-03-01;Arsenal;4;0;Everton;H
+2023;7;2023-03-01;Liverpool;2;0;Wolves;H
+2023;26;2023-03-04;Manchester City;2;0;Newcastle Utd;H
+2023;26;2023-03-04;Arsenal;3;2;Bournemouth;H
+2023;26;2023-03-04;Aston Villa;1;0;Crystal Palace;H
+2023;26;2023-03-04;Chelsea;1;0;Leeds United;H
+2023;26;2023-03-04;Brighton;4;0;West Ham;H
+2023;26;2023-03-04;Wolves;1;0;Tottenham;H
+2023;26;2023-03-04;Southampton;1;0;Leicester City;H
+2023;26;2023-03-05;Nott'ham Forest;2;2;Everton;D
+2023;26;2023-03-05;Liverpool;7;0;Manchester Utd;H
+2023;26;2023-03-06;Brentford;3;2;Fulham;H
+2023;27;2023-03-11;Bournemouth;1;0;Liverpool;H
+2023;27;2023-03-11;Leeds United;2;2;Brighton;D
+2023;27;2023-03-11;Everton;1;0;Brentford;H
+2023;27;2023-03-11;Leicester City;1;3;Chelsea;A
+2023;27;2023-03-11;Tottenham;3;1;Nott'ham Forest;H
+2023;27;2023-03-11;Crystal Palace;0;1;Manchester City;A
+2023;27;2023-03-12;Manchester Utd;0;0;Southampton;D
+2023;27;2023-03-12;Fulham;0;3;Arsenal;A
+2023;27;2023-03-12;West Ham;1;1;Aston Villa;D
+2023;27;2023-03-12;Newcastle Utd;2;1;Wolves;H
+2023;7;2023-03-15;Southampton;0;2;Brentford;A
+2023;8;2023-03-15;Brighton;1;0;Crystal Palace;H
+2023;28;2023-03-17;Nott'ham Forest;1;2;Newcastle Utd;A
+2023;28;2023-03-18;Wolves;2;4;Leeds United;A
+2023;28;2023-03-18;Brentford;1;1;Leicester City;D
+2023;28;2023-03-18;Aston Villa;3;0;Bournemouth;H
+2023;28;2023-03-18;Southampton;3;3;Tottenham;D
+2023;28;2023-03-18;Chelsea;2;2;Everton;D
+2023;28;2023-03-19;Arsenal;4;1;Crystal Palace;H
+2023;29;2023-04-01;Manchester City;4;1;Liverpool;H
+2023;29;2023-04-01;Arsenal;4;1;Leeds United;H
+2023;29;2023-04-01;Nott'ham Forest;1;1;Wolves;D
+2023;29;2023-04-01;Brighton;3;3;Brentford;D
+2023;29;2023-04-01;Crystal Palace;2;1;Leicester City;H
+2023;29;2023-04-01;Bournemouth;2;1;Fulham;H
+2023;29;2023-04-01;Chelsea;0;2;Aston Villa;A
+2023;29;2023-04-02;West Ham;1;0;Southampton;H
+2023;29;2023-04-02;Newcastle Utd;2;0;Manchester Utd;H
+2023;29;2023-04-03;Everton;1;1;Tottenham;D
+2023;7;2023-04-04;Leeds United;2;1;Nott'ham Forest;H
+2023;7;2023-04-04;Bournemouth;0;2;Brighton;A
+2023;7;2023-04-04;Leicester City;1;2;Aston Villa;A
+2023;8;2023-04-04;Chelsea;0;0;Liverpool;D
+2023;25;2023-04-05;Manchester Utd;1;0;Brentford;H
+2023;7;2023-04-05;West Ham;1;5;Newcastle Utd;A
+2023;30;2023-04-08;Manchester Utd;2;0;Everton;H
+2023;30;2023-04-08;Fulham;0;1;West Ham;A
+2023;30;2023-04-08;Aston Villa;2;0;Nott'ham Forest;H
+2023;30;2023-04-08;Leicester City;0;1;Bournemouth;A
+2023;30;2023-04-08;Brentford;1;2;Newcastle Utd;A
+2023;30;2023-04-08;Wolves;1;0;Chelsea;H
+2023;30;2023-04-08;Tottenham;2;1;Brighton;H
+2023;30;2023-04-08;Southampton;1;4;Manchester City;A
+2023;30;2023-04-09;Leeds United;1;5;Crystal Palace;A
+2023;30;2023-04-09;Liverpool;2;2;Arsenal;D
+2023;31;2023-04-15;Aston Villa;3;0;Newcastle Utd;H
+2023;31;2023-04-15;Chelsea;1;2;Brighton;A
+2023;31;2023-04-15;Southampton;0;2;Crystal Palace;A
+2023;31;2023-04-15;Wolves;2;0;Brentford;H
+2023;31;2023-04-15;Tottenham;2;3;Bournemouth;A
+2023;31;2023-04-15;Everton;1;3;Fulham;A
+2023;31;2023-04-15;Manchester City;3;1;Leicester City;H
+2023;31;2023-04-16;West Ham;2;2;Arsenal;D
+2023;31;2023-04-16;Nott'ham Forest;0;2;Manchester Utd;A
+2023;31;2023-04-17;Leeds United;1;6;Liverpool;A
+2023;32;2023-04-21;Arsenal;3;3;Southampton;D
+2023;32;2023-04-22;Fulham;2;1;Leeds United;H
+2023;32;2023-04-22;Crystal Palace;0;0;Everton;D
+2023;32;2023-04-22;Brentford;1;1;Aston Villa;D
+2023;32;2023-04-22;Liverpool;3;2;Nott'ham Forest;H
+2023;32;2023-04-22;Leicester City;2;1;Wolves;H
+2023;32;2023-04-23;Bournemouth;0;4;West Ham;A
+2023;32;2023-04-23;Newcastle Utd;6;1;Tottenham;H
+2023;33;2023-04-25;Wolves;2;0;Crystal Palace;H
+2023;33;2023-04-25;Aston Villa;1;0;Fulham;H
+2023;33;2023-04-25;Leeds United;1;1;Leicester City;D
+2023;33;2023-04-26;Nott'ham Forest;3;1;Brighton;H
+2023;33;2023-04-26;Chelsea;0;2;Brentford;A
+2023;33;2023-04-26;West Ham;1;2;Liverpool;A
+2023;33;2023-04-26;Manchester City;4;1;Arsenal;H
+2023;33;2023-04-27;Everton;1;4;Newcastle Utd;A
+2023;33;2023-04-27;Southampton;0;1;Bournemouth;A
+2023;33;2023-04-27;Tottenham;2;2;Manchester Utd;D
+2023;34;2023-04-29;Crystal Palace;4;3;West Ham;H
+2023;34;2023-04-29;Brighton;6;0;Wolves;H
+2023;34;2023-04-29;Brentford;2;1;Nott'ham Forest;H
+2023;34;2023-04-30;Manchester Utd;1;0;Aston Villa;H
+2023;34;2023-04-30;Bournemouth;4;1;Leeds United;H
+2023;34;2023-04-30;Newcastle Utd;3;1;Southampton;H
+2023;34;2023-04-30;Fulham;1;2;Manchester City;A
+2023;34;2023-04-30;Liverpool;4;3;Tottenham;H
+2023;34;2023-05-01;Leicester City;2;2;Everton;D
+2023;34;2023-05-02;Arsenal;3;1;Chelsea;H
+2023;28;2023-05-03;Liverpool;1;0;Fulham;H
+2023;28;2023-05-03;Manchester City;3;0;West Ham;H
+2023;28;2023-05-04;Brighton;1;0;Manchester Utd;H
+2023;35;2023-05-06;Tottenham;1;0;Crystal Palace;H
+2023;35;2023-05-06;Wolves;1;0;Aston Villa;H
+2023;35;2023-05-06;Bournemouth;1;3;Chelsea;A
+2023;35;2023-05-06;Manchester City;2;1;Leeds United;H
+2023;35;2023-05-06;Liverpool;1;0;Brentford;H
+2023;35;2023-05-07;Newcastle Utd;0;2;Arsenal;A
+2023;35;2023-05-07;West Ham;1;0;Manchester Utd;H
+2023;35;2023-05-08;Fulham;5;3;Leicester City;H
+2023;35;2023-05-08;Brighton;1;5;Everton;A
+2023;35;2023-05-08;Nott'ham Forest;4;3;Southampton;H
+2023;36;2023-05-13;Leeds United;2;2;Newcastle Utd;D
+2023;36;2023-05-13;Aston Villa;2;1;Tottenham;H
+2023;36;2023-05-13;Chelsea;2;2;Nott'ham Forest;D
+2023;36;2023-05-13;Crystal Palace;2;0;Bournemouth;H
+2023;36;2023-05-13;Southampton;0;2;Fulham;A
+2023;36;2023-05-13;Manchester Utd;2;0;Wolves;H
+2023;36;2023-05-14;Everton;0;3;Manchester City;A
+2023;36;2023-05-14;Brentford;2;0;West Ham;H
+2023;36;2023-05-14;Arsenal;0;3;Brighton;A
+2023;36;2023-05-15;Leicester City;0;3;Liverpool;A
+2023;25;2023-05-18;Newcastle Utd;4;1;Brighton;H
+2023;37;2023-05-20;Tottenham;1;3;Brentford;A
+2023;37;2023-05-20;Liverpool;1;1;Aston Villa;D
+2023;37;2023-05-20;Fulham;2;2;Crystal Palace;D
+2023;37;2023-05-20;Bournemouth;0;1;Manchester Utd;A
+2023;37;2023-05-20;Wolves;1;1;Everton;D
+2023;37;2023-05-20;Nott'ham Forest;1;0;Arsenal;H
+2023;37;2023-05-21;West Ham;3;1;Leeds United;H
+2023;37;2023-05-21;Brighton;3;1;Southampton;H
+2023;37;2023-05-21;Manchester City;1;0;Chelsea;H
+2023;37;2023-05-22;Newcastle Utd;0;0;Leicester City;D
+2023;32;2023-05-24;Brighton;1;1;Manchester City;D
+2023;32;2023-05-25;Manchester Utd;4;1;Chelsea;H
+2023;38;2023-05-28;Crystal Palace;1;1;Nott'ham Forest;D
+2023;38;2023-05-28;Chelsea;1;1;Newcastle Utd;D
+2023;38;2023-05-28;Manchester Utd;2;1;Fulham;H
+2023;38;2023-05-28;Arsenal;5;0;Wolves;H
+2023;38;2023-05-28;Southampton;4;4;Liverpool;D
+2023;38;2023-05-28;Everton;1;0;Bournemouth;H
+2023;38;2023-05-28;Leicester City;2;1;West Ham;H
+2023;38;2023-05-28;Aston Villa;2;1;Brighton;H
+2023;38;2023-05-28;Leeds United;1;4;Tottenham;A
+2023;38;2023-05-28;Brentford;1;0;Manchester City;H
