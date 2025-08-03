@@ -498,12 +498,6 @@ const PremierLeagueAnalysis = () => {
             </div>
           </div>
         </div>
-
-        <div className="mt-6 p-4 bg-gray-100 rounded-lg">
-          <p className="text-sm text-gray-600">
-            <strong>Catatan:</strong> Analisis ini didasarkan pada sampel 20 pertandingan dari screenshot yang diberikan. Untuk dataset lengkap musim 2020-2023, unggah file CSV Anda dan analisis akan otomatis diperbarui dengan statistik komprehensif untuk seluruh pertandingan.
-          </p>
-        </div>
       </div>
     </div>
   );
